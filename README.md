@@ -220,7 +220,7 @@ The dashboard helps business users:
 
 #  Dashboard Preview
 
-![Motor Insurance Dashboard]
+[View Dashboard PDF]
 (Power_BI/SecureDrive_General_Insurance_Dashboard.pdf)
 
 
