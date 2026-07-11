@@ -220,7 +220,7 @@ The dashboard helps business users:
 
 # 📸 Dashboard Preview
 
-*(Add your exported dashboard screenshot here after uploading it to GitHub.)*
+
 
 ---
 
