@@ -1,8 +1,8 @@
-# 🚗 Motor Insurance Claims Analytics Dashboard
+# Motor Insurance Claims Analytics Dashboard
 
 ## SecureDrive General Insurance
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an end-to-end Data Analytics solution developed for a fictional insurance company, **SecureDrive General Insurance**.
 
@@ -10,7 +10,7 @@ The objective of this project is to analyze customer policies, insurance claims,
 
 ---
 
-# 🎯 Business Problem
+# Business Problem
 
 Insurance companies handle thousands of customer policies and claims every year. Business leaders require quick insights into company performance, customer behavior, premium revenue, and claim trends.
 
@@ -27,7 +27,7 @@ This project answers key business questions such as:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 - PostgreSQL
 - SQL
@@ -37,7 +37,7 @@ This project answers key business questions such as:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 Motor Insurance Claims Analytics
@@ -106,7 +106,7 @@ Stores insurance claim details.
 
 ---
 
-# 📊 SQL Analysis
+#  SQL Analysis
 
 The project includes **17 business-oriented SQL queries** covering:
 
@@ -144,7 +144,7 @@ Some of the business questions solved include:
 
 ---
 
-# 📈 SQL Views
+#  SQL Views
 
 Four SQL views were created for reusable reporting.
 
@@ -184,7 +184,7 @@ The interactive dashboard provides management with a quick overview of company p
 
 ---
 
-# 💡 Key Business Insights
+#  Key Business Insights
 
 The dashboard helps business users:
 
@@ -198,7 +198,7 @@ The dashboard helps business users:
 
 ---
 
-# 📚 Skills Demonstrated
+#  Skills Demonstrated
 
 - SQL
 - PostgreSQL
@@ -218,13 +218,13 @@ The dashboard helps business users:
 
 ---
 
-# 📸 Dashboard Preview
+#  Dashboard Preview
 
 
 
 ---
 
-# 🚀 Project Outcome
+#  Project Outcome
 
 This project demonstrates an end-to-end Data Analytics workflow, starting from database design and SQL analysis to interactive dashboard development in Power BI.
 
@@ -232,7 +232,7 @@ The project was built to showcase practical Business Intelligence and Data Analy
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sohail**
 
