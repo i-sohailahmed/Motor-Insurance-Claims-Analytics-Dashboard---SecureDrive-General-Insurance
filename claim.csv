@@ -1,0 +1,1802 @@
+claim_id,policy_id,claim_date,claim_type,claim_amount,amount_approved,claim_status,settlement_days,garage_type
+1,1860,12/20/2025,Accidental Damage,74349,6469,Approved,32,Authorized
+2,2874,4/19/2026,Total Loss,222899,0,Rejected,58,Cashless Network
+3,280,4/24/2026,Own Damage,285783,0,Rejected,20,Authorized
+4,1535,2/28/2026,Engine Damage,205551,71221,Approved,62,Local Garage
+5,1407,4/23/2026,Flood Damage,334330,0,Pending,63,Multi Brand
+6,2245,9/1/2025,Accidental Damage,192970,0,Pending,10,Cashless Network
+7,3327,3/22/2026,Glass Damage,95186,76790,Approved,54,Authorized
+8,1627,6/24/2026,Own Damage,260652,241926,Approved,1,Local Garage
+9,425,1/25/2026,Natural Disaster,343983,69657,Approved,27,Authorized
+10,592,1/20/2026,Accidental Damage,60229,0,Rejected,39,Multi Brand
+11,3466,2/23/2026,Engine Damage,476637,0,Rejected,64,Cashless Network
+12,1035,1/24/2026,Theft Fire Damage,370323,0,Pending,80,Multi Brand
+13,2562,6/6/2026,Glass Damage,253133,77238,Approved,3,Multi Brand
+14,142,2/23/2026,Accidental Damage,159548,127482,Approved,88,Multi Brand
+15,1421,2/12/2026,Glass Damage,375586,348182,Approved,81,Multi Brand
+16,424,1/11/2026,Glass Damage,119423,0,Rejected,30,Multi Brand
+17,2436,8/7/2025,Glass Damage,36758,0,Pending,21,Local Garage
+18,2241,12/2/2025,Engine Damage,403928,0,Pending,82,Cashless Network
+19,3783,6/3/2026,Engine Damage,406849,285919,Approved,57,Authorized
+20,722,1/23/2026,Own Damage,223792,122240,Approved,37,Authorized
+21,954,4/8/2026,Own Damage,478069,370929,Approved,81,Local Garage
+22,804,3/28/2026,Engine Damage,117372,85676,Approved,89,Authorized
+23,2171,10/17/2025,Theft Fire Damage,208895,0,Rejected,70,Authorized
+24,2370,7/27/2025,Flood Damage,478618,327288,Approved,1,Cashless Network
+25,2257,7/31/2025,Flood Damage,97085,80733,Approved,24,Authorized
+26,3052,1/22/2026,Own Damage,459905,145357,Approved,26,Multi Brand
+27,2451,6/9/2026,Total Loss,95285,0,Pending,30,Cashless Network
+28,228,7/6/2025,Natural Disaster,271918,0,Rejected,75,Authorized
+29,2083,4/4/2026,Own Damage,69632,0,Rejected,84,Local Garage
+30,1337,12/1/2025,Own Damage,471602,44448,Approved,61,Cashless Network
+31,106,10/21/2025,Engine Damage,134983,0,Pending,73,Cashless Network
+32,2475,7/20/2025,Flood Damage,292174,0,Rejected,28,Local Garage
+33,59,8/4/2025,Total Loss,284589,0,Pending,69,Cashless Network
+34,1703,10/24/2025,Natural Disaster,442111,0,Pending,44,Multi Brand
+35,182,2/20/2026,Engine Damage,349200,283239,Approved,89,Local Garage
+36,160,3/14/2026,Natural Disaster,418662,0,Pending,86,Local Garage
+37,1243,2/26/2026,Theft Fire Damage,20003,19166,Approved,76,Local Garage
+38,3444,12/24/2025,Flood Damage,435339,238605,Approved,12,Cashless Network
+39,234,11/11/2025,Own Damage,10782,0,Pending,26,Local Garage
+40,3680,11/24/2025,Own Damage,193693,80323,Approved,86,Local Garage
+41,3126,1/24/2026,Natural Disaster,351284,0,Rejected,37,Authorized
+42,1285,8/30/2025,Engine Damage,425768,0,Rejected,13,Multi Brand
+43,1815,6/28/2025,Glass Damage,287797,86344,Approved,67,Authorized
+44,3682,4/24/2026,Engine Damage,87633,7862,Approved,30,Cashless Network
+45,1969,4/20/2026,Glass Damage,252158,68028,Approved,20,Authorized
+46,420,10/31/2025,Theft Fire Damage,353252,0,Pending,4,Multi Brand
+47,2095,12/3/2025,Own Damage,15961,8609,Approved,13,Cashless Network
+48,239,2/20/2026,Theft Fire Damage,215426,0,Pending,61,Multi Brand
+49,2363,8/24/2025,Flood Damage,251362,145273,Approved,36,Authorized
+50,2661,11/19/2025,Flood Damage,107130,0,Rejected,4,Multi Brand
+51,986,4/15/2026,Theft Fire Damage,99937,0,Pending,83,Local Garage
+52,106,10/27/2025,Own Damage,227211,0,Pending,27,Cashless Network
+53,1235,10/5/2025,Total Loss,235186,0,Pending,62,Cashless Network
+54,1430,10/7/2025,Engine Damage,118050,0,Pending,36,Cashless Network
+55,3427,10/19/2025,Engine Damage,416176,0,Rejected,30,Authorized
+56,721,1/25/2026,Flood Damage,470653,429394,Approved,57,Local Garage
+57,3187,7/11/2025,Engine Damage,42981,0,Pending,47,Local Garage
+58,1404,9/24/2025,Accidental Damage,392089,89913,Approved,32,Local Garage
+59,66,10/24/2025,Flood Damage,445038,0,Pending,84,Multi Brand
+60,1018,8/13/2025,Flood Damage,108650,0,Pending,83,Local Garage
+61,3005,9/30/2025,Glass Damage,224564,0,Pending,33,Multi Brand
+62,779,12/3/2025,Theft Fire Damage,356487,336784,Approved,38,Authorized
+63,1539,7/6/2025,Accidental Damage,217314,0,Pending,34,Authorized
+64,2478,7/4/2025,Glass Damage,493327,0,Rejected,35,Authorized
+65,3357,2/7/2026,Accidental Damage,265135,0,Rejected,7,Local Garage
+66,1196,4/19/2026,Accidental Damage,434695,0,Rejected,80,Local Garage
+67,840,11/20/2025,Accidental Damage,424953,0,Pending,62,Local Garage
+68,1105,11/25/2025,Total Loss,265423,256375,Approved,21,Authorized
+69,704,6/9/2026,Accidental Damage,259841,81532,Approved,43,Local Garage
+70,2240,1/31/2026,Total Loss,315360,30830,Approved,53,Multi Brand
+71,3047,2/18/2026,Glass Damage,412903,0,Rejected,45,Authorized
+72,3450,4/14/2026,Flood Damage,477630,0,Pending,14,Multi Brand
+73,1418,12/9/2025,Glass Damage,231471,196372,Approved,20,Local Garage
+74,3413,6/16/2026,Theft Fire Damage,205432,135942,Approved,54,Cashless Network
+75,2427,6/25/2026,Glass Damage,138378,114450,Approved,54,Local Garage
+76,3190,8/16/2025,Accidental Damage,275831,0,Rejected,3,Cashless Network
+77,462,1/25/2026,Engine Damage,115989,23478,Approved,74,Authorized
+78,3692,3/9/2026,Glass Damage,361703,0,Pending,15,Local Garage
+79,3485,11/9/2025,Natural Disaster,325587,0,Pending,16,Multi Brand
+80,1947,5/9/2026,Natural Disaster,358815,0,Rejected,18,Local Garage
+81,3869,2/2/2026,Total Loss,221656,0,Pending,89,Cashless Network
+82,2480,8/26/2025,Total Loss,477813,0,Pending,63,Multi Brand
+83,3485,10/27/2025,Natural Disaster,93086,0,Rejected,83,Cashless Network
+84,838,12/4/2025,Accidental Damage,14622,0,Rejected,56,Cashless Network
+85,760,12/1/2025,Glass Damage,63377,0,Rejected,8,Cashless Network
+86,2274,10/19/2025,Engine Damage,305106,0,Pending,47,Cashless Network
+87,1980,10/21/2025,Glass Damage,417366,0,Rejected,15,Multi Brand
+88,1727,11/28/2025,Accidental Damage,225489,0,Rejected,83,Cashless Network
+89,3600,7/22/2025,Glass Damage,309656,0,Rejected,26,Multi Brand
+90,165,2/6/2026,Own Damage,165604,0,Rejected,26,Multi Brand
+91,1815,1/9/2026,Engine Damage,270011,242614,Approved,19,Cashless Network
+92,2050,6/16/2026,Glass Damage,253148,92758,Approved,4,Multi Brand
+93,2419,7/26/2025,Own Damage,435123,0,Pending,15,Authorized
+94,547,2/19/2026,Natural Disaster,218888,0,Pending,60,Authorized
+95,1613,9/13/2025,Flood Damage,316987,286742,Approved,15,Authorized
+96,1385,8/11/2025,Own Damage,232202,27237,Approved,24,Authorized
+97,3896,12/7/2025,Own Damage,77017,0,Pending,80,Cashless Network
+98,3056,12/5/2025,Theft Fire Damage,471797,0,Pending,15,Authorized
+99,2084,6/9/2026,Total Loss,271992,71168,Approved,2,Cashless Network
+100,1879,6/27/2026,Natural Disaster,96303,0,Rejected,67,Authorized
+101,482,2/1/2026,Natural Disaster,104279,0,Pending,66,Local Garage
+102,3505,8/10/2025,Natural Disaster,165538,0,Rejected,70,Cashless Network
+103,2159,11/21/2025,Flood Damage,241681,0,Pending,78,Multi Brand
+104,1103,9/1/2025,Own Damage,284995,0,Pending,39,Multi Brand
+105,3660,10/2/2025,Own Damage,118023,0,Rejected,32,Local Garage
+106,3509,1/6/2026,Natural Disaster,189088,0,Pending,87,Cashless Network
+107,85,4/2/2026,Natural Disaster,133723,0,Pending,38,Cashless Network
+108,2064,11/24/2025,Engine Damage,253280,154528,Approved,40,Authorized
+109,742,10/28/2025,Glass Damage,37106,0,Pending,6,Authorized
+110,1228,8/23/2025,Engine Damage,305661,0,Rejected,1,Cashless Network
+111,629,6/17/2026,Natural Disaster,254135,20196,Approved,12,Local Garage
+112,621,12/9/2025,Flood Damage,391295,0,Pending,41,Multi Brand
+113,3250,1/28/2026,Natural Disaster,427324,0,Pending,8,Authorized
+114,3778,6/12/2026,Flood Damage,275505,0,Pending,15,Local Garage
+115,2059,6/21/2026,Engine Damage,8187,0,Rejected,26,Multi Brand
+116,2266,9/22/2025,Flood Damage,472875,199190,Approved,76,Multi Brand
+117,1666,8/30/2025,Total Loss,392394,0,Pending,57,Multi Brand
+118,1415,5/21/2026,Own Damage,23343,14209,Approved,68,Cashless Network
+119,3982,1/19/2026,Engine Damage,334400,286979,Approved,75,Local Garage
+120,2601,7/3/2025,Total Loss,214270,0,Rejected,35,Local Garage
+121,319,4/7/2026,Glass Damage,289385,232889,Approved,8,Cashless Network
+122,61,9/23/2025,Glass Damage,312457,0,Rejected,65,Cashless Network
+123,1477,1/28/2026,Theft Fire Damage,38621,0,Rejected,26,Cashless Network
+124,3125,8/14/2025,Own Damage,387883,0,Rejected,55,Authorized
+125,242,9/29/2025,Glass Damage,55572,31764,Approved,20,Authorized
+126,1222,12/23/2025,Total Loss,269664,0,Pending,65,Authorized
+127,2076,6/27/2026,Flood Damage,410125,0,Rejected,25,Authorized
+128,1621,2/3/2026,Theft Fire Damage,455570,0,Pending,23,Cashless Network
+129,2433,3/1/2026,Flood Damage,452882,96653,Approved,61,Multi Brand
+130,833,2/26/2026,Glass Damage,266304,21003,Approved,42,Cashless Network
+131,2883,3/17/2026,Flood Damage,363819,0,Pending,73,Multi Brand
+132,2217,2/5/2026,Total Loss,266825,0,Pending,30,Local Garage
+133,2148,5/22/2026,Flood Damage,195096,0,Rejected,15,Authorized
+134,3460,3/15/2026,Flood Damage,84782,0,Rejected,65,Multi Brand
+135,2250,12/1/2025,Flood Damage,107298,0,Rejected,73,Cashless Network
+136,1300,2/11/2026,Engine Damage,399046,0,Pending,40,Cashless Network
+137,2425,5/15/2026,Theft Fire Damage,81875,0,Rejected,59,Cashless Network
+138,1469,4/12/2026,Engine Damage,308271,7715,Approved,89,Authorized
+139,3593,8/21/2025,Natural Disaster,338295,250145,Approved,44,Local Garage
+140,1131,9/10/2025,Accidental Damage,275024,0,Pending,83,Multi Brand
+141,1524,6/27/2026,Engine Damage,187318,177979,Approved,55,Authorized
+142,2220,8/10/2025,Glass Damage,162812,0,Rejected,33,Authorized
+143,3372,7/16/2025,Flood Damage,87417,0,Rejected,24,Authorized
+144,2335,5/25/2026,Total Loss,426880,90175,Approved,59,Authorized
+145,1958,8/14/2025,Engine Damage,404386,0,Rejected,57,Multi Brand
+146,2544,8/9/2025,Own Damage,481268,0,Rejected,33,Authorized
+147,3236,2/24/2026,Engine Damage,132614,0,Pending,18,Local Garage
+148,489,10/12/2025,Natural Disaster,435802,0,Rejected,60,Cashless Network
+149,571,12/28/2025,Theft Fire Damage,119849,0,Rejected,37,Multi Brand
+150,3177,3/11/2026,Glass Damage,212427,0,Rejected,64,Local Garage
+151,629,2/16/2026,Own Damage,30742,0,Rejected,16,Local Garage
+152,3210,12/17/2025,Theft Fire Damage,128213,0,Rejected,79,Multi Brand
+153,1540,6/18/2026,Natural Disaster,372715,362862,Approved,4,Cashless Network
+154,2127,7/6/2025,Own Damage,145952,0,Rejected,8,Cashless Network
+155,1764,8/30/2025,Own Damage,82936,0,Pending,17,Authorized
+156,2197,4/7/2026,Own Damage,141286,0,Pending,61,Authorized
+157,1799,1/1/2026,Flood Damage,447120,0,Pending,25,Cashless Network
+158,2578,11/20/2025,Own Damage,254897,0,Pending,40,Local Garage
+159,2194,5/17/2026,Flood Damage,329061,212520,Approved,18,Authorized
+160,3576,7/17/2025,Own Damage,69210,44716,Approved,12,Multi Brand
+161,1158,6/8/2026,Flood Damage,463628,38562,Approved,9,Local Garage
+162,1296,3/13/2026,Engine Damage,232104,0,Pending,73,Multi Brand
+163,2562,2/16/2026,Accidental Damage,212540,0,Rejected,47,Cashless Network
+164,1330,1/29/2026,Natural Disaster,146115,0,Rejected,29,Multi Brand
+165,2849,3/31/2026,Glass Damage,385642,23181,Approved,7,Multi Brand
+166,730,9/13/2025,Natural Disaster,285006,0,Pending,9,Cashless Network
+167,2737,5/26/2026,Accidental Damage,320132,64944,Approved,54,Authorized
+168,376,11/12/2025,Engine Damage,72154,23004,Approved,1,Authorized
+169,3875,6/21/2026,Glass Damage,180236,0,Rejected,20,Local Garage
+170,3481,4/24/2026,Accidental Damage,60136,0,Pending,87,Local Garage
+171,474,5/30/2026,Natural Disaster,491914,0,Rejected,79,Authorized
+172,247,2/8/2026,Flood Damage,201034,109090,Approved,25,Local Garage
+173,1824,2/19/2026,Accidental Damage,225178,0,Pending,57,Cashless Network
+174,2486,12/9/2025,Engine Damage,269048,0,Rejected,34,Cashless Network
+175,582,5/10/2026,Engine Damage,374723,374237,Approved,14,Local Garage
+176,46,8/7/2025,Accidental Damage,339981,0,Rejected,44,Cashless Network
+177,412,5/2/2026,Natural Disaster,186213,0,Rejected,78,Cashless Network
+178,1608,9/23/2025,Glass Damage,421315,287501,Approved,55,Cashless Network
+179,2628,4/22/2026,Own Damage,52657,45989,Approved,3,Local Garage
+180,3266,5/19/2026,Engine Damage,457150,0,Pending,30,Multi Brand
+181,17,8/25/2025,Theft Fire Damage,480824,378806,Approved,69,Local Garage
+182,213,2/2/2026,Engine Damage,102855,49930,Approved,81,Cashless Network
+183,482,9/29/2025,Engine Damage,420910,0,Pending,84,Local Garage
+184,3458,12/27/2025,Own Damage,6381,0,Pending,36,Multi Brand
+185,1012,3/3/2026,Engine Damage,326665,0,Rejected,36,Multi Brand
+186,2515,5/15/2026,Accidental Damage,474014,107959,Approved,8,Multi Brand
+187,2265,11/21/2025,Accidental Damage,129283,51295,Approved,25,Local Garage
+188,2456,12/30/2025,Natural Disaster,45359,0,Rejected,17,Cashless Network
+189,2647,1/6/2026,Theft Fire Damage,339708,0,Pending,38,Multi Brand
+190,3709,12/15/2025,Flood Damage,266549,104054,Approved,2,Local Garage
+191,929,12/31/2025,Accidental Damage,484060,196462,Approved,81,Authorized
+192,2287,10/19/2025,Engine Damage,190375,0,Pending,7,Multi Brand
+193,3507,11/1/2025,Natural Disaster,258790,0,Rejected,42,Authorized
+194,734,4/6/2026,Theft Fire Damage,392083,0,Rejected,28,Local Garage
+195,3346,8/14/2025,Accidental Damage,281674,83676,Approved,46,Local Garage
+196,1095,11/2/2025,Accidental Damage,219206,0,Rejected,74,Cashless Network
+197,3108,4/1/2026,Engine Damage,454817,0,Pending,88,Local Garage
+198,375,4/10/2026,Engine Damage,76473,0,Pending,66,Cashless Network
+199,1242,2/8/2026,Total Loss,34657,23832,Approved,70,Local Garage
+200,1293,7/9/2025,Glass Damage,442955,290308,Approved,19,Authorized
+201,3840,2/22/2026,Glass Damage,134169,0,Rejected,78,Multi Brand
+202,2971,11/15/2025,Total Loss,45142,42885,Approved,86,Local Garage
+203,2532,10/12/2025,Accidental Damage,344760,218682,Approved,53,Cashless Network
+204,3597,2/1/2026,Accidental Damage,268185,0,Pending,50,Authorized
+205,3561,10/16/2025,Engine Damage,412154,355795,Approved,85,Multi Brand
+206,2821,4/12/2026,Own Damage,458505,270405,Approved,32,Authorized
+207,3908,1/10/2026,Own Damage,484904,0,Pending,64,Cashless Network
+208,859,11/11/2025,Own Damage,367235,0,Rejected,48,Multi Brand
+209,1167,6/19/2026,Glass Damage,383291,0,Pending,62,Cashless Network
+210,919,4/19/2026,Total Loss,449393,0,Pending,23,Multi Brand
+211,2332,12/21/2025,Accidental Damage,380703,0,Rejected,31,Local Garage
+212,1531,2/13/2026,Accidental Damage,272250,0,Rejected,52,Local Garage
+213,44,12/13/2025,Accidental Damage,131220,35276,Approved,79,Authorized
+214,2828,11/16/2025,Flood Damage,470683,416158,Approved,30,Multi Brand
+215,3936,5/23/2026,Accidental Damage,448750,0,Rejected,5,Multi Brand
+216,1219,9/25/2025,Flood Damage,497204,251509,Approved,85,Multi Brand
+217,2217,11/26/2025,Natural Disaster,271671,0,Rejected,87,Authorized
+218,378,2/24/2026,Flood Damage,496247,0,Pending,16,Multi Brand
+219,3972,7/1/2025,Accidental Damage,437630,0,Rejected,14,Multi Brand
+220,3761,7/4/2025,Accidental Damage,142039,0,Rejected,36,Authorized
+221,3828,4/12/2026,Theft Fire Damage,227556,118936,Approved,45,Cashless Network
+222,3678,9/10/2025,Engine Damage,191872,0,Rejected,64,Multi Brand
+223,2117,10/15/2025,Flood Damage,233775,0,Pending,69,Authorized
+224,3215,6/15/2026,Glass Damage,108982,0,Pending,24,Local Garage
+225,1476,10/27/2025,Accidental Damage,465680,273320,Approved,33,Local Garage
+226,3633,11/9/2025,Natural Disaster,399880,0,Pending,19,Multi Brand
+227,90,9/17/2025,Engine Damage,62710,0,Rejected,85,Multi Brand
+228,2644,9/5/2025,Engine Damage,353085,0,Pending,54,Authorized
+229,1670,4/5/2026,Flood Damage,449802,181934,Approved,42,Cashless Network
+230,3120,6/2/2026,Natural Disaster,441896,273682,Approved,33,Local Garage
+231,357,6/29/2025,Own Damage,477099,432357,Approved,68,Multi Brand
+232,2250,1/2/2026,Own Damage,157233,0,Rejected,53,Multi Brand
+233,1642,4/20/2026,Accidental Damage,119911,0,Rejected,65,Multi Brand
+234,1286,1/7/2026,Engine Damage,163495,0,Pending,57,Local Garage
+235,2378,2/23/2026,Natural Disaster,116117,45885,Approved,34,Local Garage
+236,559,11/21/2025,Accidental Damage,6001,0,Pending,73,Authorized
+237,3993,11/7/2025,Total Loss,377541,0,Pending,64,Authorized
+238,2546,8/8/2025,Accidental Damage,317340,78773,Approved,71,Multi Brand
+239,2275,3/14/2026,Accidental Damage,256218,0,Rejected,63,Multi Brand
+240,1736,3/10/2026,Natural Disaster,348087,0,Pending,70,Authorized
+241,1492,1/9/2026,Total Loss,406724,294051,Approved,85,Local Garage
+242,1345,1/13/2026,Engine Damage,297910,0,Rejected,59,Cashless Network
+243,3855,5/6/2026,Flood Damage,151170,0,Rejected,20,Cashless Network
+244,2325,1/20/2026,Glass Damage,343443,164315,Approved,70,Local Garage
+245,1767,10/15/2025,Flood Damage,254870,0,Rejected,39,Authorized
+246,1376,2/11/2026,Engine Damage,85988,0,Pending,51,Local Garage
+247,829,4/1/2026,Engine Damage,129462,0,Rejected,33,Local Garage
+248,747,5/14/2026,Total Loss,273735,120301,Approved,28,Cashless Network
+249,1083,2/10/2026,Flood Damage,297288,214522,Approved,18,Multi Brand
+250,377,3/23/2026,Total Loss,269756,0,Rejected,89,Cashless Network
+251,3616,9/21/2025,Natural Disaster,94698,0,Pending,64,Authorized
+252,1703,9/25/2025,Engine Damage,198310,0,Pending,71,Local Garage
+253,2442,3/1/2026,Flood Damage,453455,0,Pending,28,Cashless Network
+254,3287,10/17/2025,Flood Damage,276568,0,Pending,9,Cashless Network
+255,2055,1/28/2026,Natural Disaster,339465,43524,Approved,50,Multi Brand
+256,1127,2/26/2026,Total Loss,302582,143700,Approved,71,Local Garage
+257,1689,5/11/2026,Own Damage,227264,0,Pending,82,Authorized
+258,3263,9/4/2025,Flood Damage,180391,0,Pending,33,Cashless Network
+259,3022,2/6/2026,Total Loss,235416,0,Rejected,80,Multi Brand
+260,2338,5/12/2026,Total Loss,166492,0,Pending,18,Authorized
+261,3073,11/29/2025,Theft Fire Damage,162539,0,Rejected,28,Multi Brand
+262,1937,9/22/2025,Glass Damage,299278,0,Pending,87,Multi Brand
+263,1420,4/6/2026,Glass Damage,376832,0,Rejected,27,Authorized
+264,1527,6/26/2026,Flood Damage,22575,10690,Approved,55,Multi Brand
+265,2805,11/7/2025,Natural Disaster,198946,0,Pending,35,Cashless Network
+266,759,5/14/2026,Own Damage,410337,166119,Approved,44,Authorized
+267,818,8/11/2025,Own Damage,86864,71513,Approved,46,Local Garage
+268,2537,10/20/2025,Total Loss,246142,0,Pending,81,Local Garage
+269,3718,5/14/2026,Accidental Damage,482135,0,Pending,3,Multi Brand
+270,2506,10/31/2025,Engine Damage,56276,0,Pending,86,Local Garage
+271,2876,10/29/2025,Total Loss,284918,136607,Approved,60,Multi Brand
+272,1363,7/22/2025,Engine Damage,79117,0,Pending,51,Local Garage
+273,2609,10/23/2025,Accidental Damage,280503,0,Pending,39,Authorized
+274,1446,9/30/2025,Glass Damage,27814,18373,Approved,2,Cashless Network
+275,625,10/14/2025,Engine Damage,280191,0,Rejected,40,Multi Brand
+276,1951,12/6/2025,Glass Damage,64257,0,Rejected,60,Cashless Network
+277,2337,5/19/2026,Total Loss,389382,0,Pending,90,Local Garage
+278,2972,8/8/2025,Engine Damage,205102,123164,Approved,60,Local Garage
+279,2936,11/13/2025,Engine Damage,250386,0,Pending,38,Authorized
+280,763,1/18/2026,Total Loss,7687,6798,Approved,63,Multi Brand
+281,2495,6/10/2026,Flood Damage,201636,0,Pending,52,Multi Brand
+282,574,9/16/2025,Accidental Damage,328707,0,Pending,32,Multi Brand
+283,3672,1/16/2026,Own Damage,380837,121722,Approved,59,Multi Brand
+284,1599,12/17/2025,Theft Fire Damage,45062,41955,Approved,67,Multi Brand
+285,2224,8/29/2025,Flood Damage,406808,0,Pending,17,Authorized
+286,1413,3/3/2026,Natural Disaster,326698,260492,Approved,22,Cashless Network
+287,614,5/22/2026,Glass Damage,97959,70327,Approved,15,Local Garage
+288,436,11/25/2025,Total Loss,130059,0,Rejected,73,Authorized
+289,2230,5/19/2026,Own Damage,313805,0,Pending,33,Local Garage
+290,1856,9/3/2025,Total Loss,199024,0,Rejected,22,Local Garage
+291,602,2/3/2026,Engine Damage,496897,225385,Approved,28,Cashless Network
+292,2932,2/22/2026,Total Loss,18471,0,Rejected,7,Local Garage
+293,2147,9/14/2025,Glass Damage,214959,0,Rejected,31,Local Garage
+294,3181,7/20/2025,Natural Disaster,313515,0,Pending,12,Authorized
+295,2862,9/11/2025,Total Loss,431534,0,Rejected,6,Local Garage
+296,3561,5/2/2026,Glass Damage,361756,0,Pending,42,Multi Brand
+297,2273,1/30/2026,Accidental Damage,366830,0,Rejected,44,Local Garage
+298,1267,11/4/2025,Total Loss,309689,0,Rejected,83,Local Garage
+299,1434,9/7/2025,Flood Damage,315724,0,Rejected,84,Authorized
+300,907,2/18/2026,Accidental Damage,305635,277193,Approved,10,Authorized
+301,3166,6/12/2026,Accidental Damage,335642,315116,Approved,78,Cashless Network
+302,3848,11/21/2025,Glass Damage,21878,0,Rejected,78,Local Garage
+303,961,11/15/2025,Own Damage,357586,0,Rejected,40,Local Garage
+304,3178,9/29/2025,Flood Damage,287129,240744,Approved,71,Cashless Network
+305,1485,4/25/2026,Flood Damage,102509,0,Rejected,35,Multi Brand
+306,1201,3/28/2026,Engine Damage,112221,40864,Approved,29,Cashless Network
+307,629,6/14/2026,Own Damage,219044,176542,Approved,24,Cashless Network
+308,3958,5/17/2026,Theft Fire Damage,47329,0,Pending,88,Cashless Network
+309,1604,3/24/2026,Theft Fire Damage,315751,274355,Approved,49,Local Garage
+310,1548,3/3/2026,Theft Fire Damage,276573,0,Pending,78,Local Garage
+311,30,2/1/2026,Flood Damage,215515,204927,Approved,48,Local Garage
+312,3307,11/4/2025,Own Damage,32188,0,Rejected,13,Authorized
+313,1296,1/12/2026,Glass Damage,344599,0,Rejected,84,Multi Brand
+314,1951,12/27/2025,Accidental Damage,437646,260201,Approved,63,Local Garage
+315,3687,3/8/2026,Theft Fire Damage,340640,130623,Approved,16,Multi Brand
+316,589,6/1/2026,Own Damage,39708,0,Pending,38,Authorized
+317,2339,3/13/2026,Own Damage,320419,0,Rejected,10,Local Garage
+318,1403,2/26/2026,Own Damage,24339,0,Rejected,17,Multi Brand
+319,531,12/29/2025,Own Damage,43367,0,Rejected,9,Authorized
+320,1240,1/20/2026,Accidental Damage,104088,0,Rejected,85,Local Garage
+321,10,5/28/2026,Own Damage,418248,121536,Approved,45,Authorized
+322,2306,11/18/2025,Natural Disaster,369695,226537,Approved,43,Cashless Network
+323,3135,2/5/2026,Total Loss,484400,0,Pending,71,Local Garage
+324,1146,12/29/2025,Flood Damage,140671,7705,Approved,41,Authorized
+325,3351,5/31/2026,Flood Damage,297962,198728,Approved,65,Multi Brand
+326,1059,5/20/2026,Glass Damage,396741,0,Pending,3,Authorized
+327,966,2/17/2026,Flood Damage,471087,0,Pending,70,Local Garage
+328,1841,4/1/2026,Own Damage,469886,0,Pending,80,Multi Brand
+329,3136,4/7/2026,Natural Disaster,230760,0,Pending,40,Cashless Network
+330,1866,5/17/2026,Theft Fire Damage,452137,0,Rejected,80,Cashless Network
+331,2635,11/27/2025,Accidental Damage,479257,359765,Approved,47,Authorized
+332,3254,11/14/2025,Flood Damage,243866,51151,Approved,78,Cashless Network
+333,3774,9/4/2025,Engine Damage,407854,0,Rejected,27,Multi Brand
+334,2742,7/15/2025,Glass Damage,331590,0,Rejected,39,Multi Brand
+335,2948,6/30/2025,Own Damage,482227,0,Rejected,11,Cashless Network
+336,120,6/21/2026,Own Damage,260971,0,Pending,26,Local Garage
+337,3784,12/22/2025,Flood Damage,124282,0,Rejected,27,Authorized
+338,54,7/25/2025,Theft Fire Damage,158789,96034,Approved,79,Authorized
+339,3070,7/30/2025,Accidental Damage,176334,121326,Approved,13,Authorized
+340,3297,6/18/2026,Theft Fire Damage,81080,0,Rejected,75,Cashless Network
+341,813,2/25/2026,Theft Fire Damage,91715,63189,Approved,24,Multi Brand
+342,3089,4/26/2026,Accidental Damage,205892,0,Rejected,56,Local Garage
+343,272,7/2/2025,Total Loss,468779,206736,Approved,45,Local Garage
+344,271,11/13/2025,Flood Damage,108303,0,Pending,55,Multi Brand
+345,1947,9/10/2025,Flood Damage,149772,0,Pending,21,Multi Brand
+346,768,11/16/2025,Total Loss,448562,0,Rejected,80,Cashless Network
+347,2132,4/6/2026,Own Damage,397320,40331,Approved,37,Local Garage
+348,3524,5/31/2026,Theft Fire Damage,167544,30373,Approved,73,Multi Brand
+349,989,5/19/2026,Natural Disaster,221041,0,Rejected,86,Local Garage
+350,1232,12/16/2025,Theft Fire Damage,356999,0,Rejected,40,Multi Brand
+351,2932,7/25/2025,Natural Disaster,317547,0,Rejected,28,Cashless Network
+352,734,5/26/2026,Own Damage,327343,198082,Approved,85,Cashless Network
+353,3225,1/3/2026,Flood Damage,40351,5579,Approved,68,Multi Brand
+354,826,1/2/2026,Total Loss,76588,34138,Approved,15,Local Garage
+355,746,9/1/2025,Own Damage,326872,41991,Approved,58,Multi Brand
+356,3869,12/20/2025,Own Damage,388395,0,Pending,74,Multi Brand
+357,1553,5/1/2026,Theft Fire Damage,9144,0,Rejected,65,Authorized
+358,1999,9/10/2025,Own Damage,302423,0,Pending,49,Multi Brand
+359,1229,10/2/2025,Flood Damage,210226,209102,Approved,90,Cashless Network
+360,253,12/26/2025,Accidental Damage,175303,0,Pending,58,Cashless Network
+361,514,4/10/2026,Flood Damage,295905,0,Rejected,13,Authorized
+362,3848,5/10/2026,Natural Disaster,196277,0,Pending,36,Local Garage
+363,1984,8/2/2025,Total Loss,330605,0,Rejected,17,Authorized
+364,1755,4/19/2026,Theft Fire Damage,273319,132171,Approved,73,Local Garage
+365,1670,12/7/2025,Own Damage,298555,0,Rejected,16,Cashless Network
+366,3045,7/10/2025,Theft Fire Damage,137517,0,Pending,61,Cashless Network
+367,3822,5/14/2026,Own Damage,63104,0,Pending,67,Cashless Network
+368,3467,3/21/2026,Accidental Damage,62126,0,Rejected,87,Cashless Network
+369,2060,8/19/2025,Flood Damage,459525,0,Rejected,3,Multi Brand
+370,3774,10/21/2025,Own Damage,230851,0,Rejected,7,Local Garage
+371,3013,6/16/2026,Flood Damage,493932,0,Rejected,13,Local Garage
+372,941,12/15/2025,Total Loss,180143,0,Pending,76,Multi Brand
+373,1313,7/10/2025,Accidental Damage,208854,0,Pending,42,Local Garage
+374,1745,6/9/2026,Accidental Damage,268964,0,Pending,37,Authorized
+375,2977,3/30/2026,Accidental Damage,91070,0,Rejected,84,Multi Brand
+376,2324,11/6/2025,Engine Damage,305304,0,Rejected,31,Authorized
+377,1930,2/24/2026,Own Damage,195161,0,Pending,51,Authorized
+378,495,5/17/2026,Natural Disaster,291704,210633,Approved,60,Cashless Network
+379,3684,8/3/2025,Total Loss,150824,79689,Approved,81,Authorized
+380,3187,5/25/2026,Glass Damage,256862,0,Pending,10,Authorized
+381,2942,4/10/2026,Natural Disaster,488664,476695,Approved,9,Multi Brand
+382,2318,6/16/2026,Natural Disaster,220765,0,Rejected,82,Multi Brand
+383,879,6/10/2026,Natural Disaster,154317,0,Pending,35,Cashless Network
+384,409,3/28/2026,Accidental Damage,42447,0,Rejected,60,Authorized
+385,660,11/20/2025,Engine Damage,484578,91947,Approved,26,Local Garage
+386,3490,12/7/2025,Engine Damage,299655,0,Pending,73,Multi Brand
+387,3722,12/25/2025,Flood Damage,330273,0,Rejected,23,Authorized
+388,1987,6/28/2025,Accidental Damage,115395,47605,Approved,54,Authorized
+389,1,3/12/2026,Accidental Damage,309283,0,Rejected,74,Multi Brand
+390,2424,5/19/2026,Engine Damage,343206,341314,Approved,50,Cashless Network
+391,1813,9/26/2025,Accidental Damage,124943,0,Rejected,55,Multi Brand
+392,268,8/26/2025,Glass Damage,39218,10196,Approved,10,Multi Brand
+393,2225,7/11/2025,Engine Damage,405471,0,Pending,52,Authorized
+394,1072,4/6/2026,Accidental Damage,443905,0,Pending,30,Authorized
+395,2011,5/11/2026,Flood Damage,281988,61495,Approved,72,Cashless Network
+396,2082,5/6/2026,Natural Disaster,294060,0,Pending,68,Multi Brand
+397,495,6/13/2026,Glass Damage,101199,0,Rejected,12,Multi Brand
+398,394,6/16/2026,Natural Disaster,478964,357684,Approved,46,Multi Brand
+399,124,4/6/2026,Glass Damage,169332,0,Pending,34,Multi Brand
+400,2962,8/11/2025,Glass Damage,384040,14390,Approved,37,Cashless Network
+401,109,10/11/2025,Own Damage,421366,0,Pending,46,Authorized
+402,3796,8/13/2025,Natural Disaster,312290,114727,Approved,57,Cashless Network
+403,823,6/1/2026,Own Damage,156645,0,Pending,18,Authorized
+404,1316,1/19/2026,Accidental Damage,274533,0,Pending,49,Cashless Network
+405,569,7/27/2025,Theft Fire Damage,388446,227320,Approved,90,Cashless Network
+406,66,8/17/2025,Flood Damage,159326,0,Pending,77,Local Garage
+407,3856,10/2/2025,Theft Fire Damage,461019,0,Rejected,31,Multi Brand
+408,3363,12/21/2025,Engine Damage,24688,0,Rejected,82,Local Garage
+409,2763,4/14/2026,Theft Fire Damage,467632,79368,Approved,62,Authorized
+410,1848,1/17/2026,Own Damage,90148,24852,Approved,76,Local Garage
+411,1923,11/7/2025,Engine Damage,259707,0,Pending,85,Local Garage
+412,1478,9/23/2025,Natural Disaster,317811,0,Pending,23,Authorized
+413,2340,12/13/2025,Own Damage,64554,0,Pending,60,Authorized
+414,2790,4/7/2026,Own Damage,77226,0,Rejected,79,Multi Brand
+415,2904,4/25/2026,Natural Disaster,457421,0,Pending,57,Local Garage
+416,2349,9/21/2025,Theft Fire Damage,275686,0,Rejected,74,Cashless Network
+417,2999,10/15/2025,Accidental Damage,51725,0,Pending,81,Multi Brand
+418,2870,1/27/2026,Total Loss,418868,0,Rejected,11,Multi Brand
+419,719,6/26/2026,Natural Disaster,291626,0,Pending,16,Cashless Network
+420,172,11/25/2025,Engine Damage,152432,0,Rejected,26,Local Garage
+421,3180,1/5/2026,Theft Fire Damage,152562,0,Rejected,8,Authorized
+422,520,2/5/2026,Flood Damage,252517,0,Rejected,89,Local Garage
+423,2100,10/16/2025,Glass Damage,472639,468343,Approved,31,Local Garage
+424,634,6/29/2025,Accidental Damage,194107,0,Pending,22,Multi Brand
+425,3693,1/29/2026,Natural Disaster,284529,0,Pending,30,Local Garage
+426,919,12/18/2025,Total Loss,103951,0,Pending,20,Multi Brand
+427,3205,11/3/2025,Own Damage,130951,0,Pending,57,Local Garage
+428,1194,7/12/2025,Own Damage,46974,0,Rejected,24,Multi Brand
+429,3680,11/10/2025,Accidental Damage,405320,208744,Approved,66,Local Garage
+430,2532,3/17/2026,Own Damage,328713,0,Rejected,5,Authorized
+431,1285,10/15/2025,Own Damage,482212,0,Rejected,32,Multi Brand
+432,1835,5/13/2026,Flood Damage,60199,0,Pending,70,Local Garage
+433,1117,10/20/2025,Total Loss,458372,286172,Approved,67,Multi Brand
+434,2845,6/28/2025,Glass Damage,391169,0,Rejected,36,Authorized
+435,636,12/17/2025,Own Damage,375665,0,Rejected,44,Multi Brand
+436,3634,2/4/2026,Theft Fire Damage,22575,11641,Approved,68,Cashless Network
+437,3088,3/6/2026,Own Damage,481075,254808,Approved,84,Authorized
+438,1297,10/3/2025,Engine Damage,139127,0,Pending,40,Multi Brand
+439,1144,5/6/2026,Glass Damage,129519,0,Pending,83,Multi Brand
+440,3010,3/28/2026,Accidental Damage,117944,0,Pending,20,Cashless Network
+441,1038,3/22/2026,Glass Damage,226103,207462,Approved,1,Multi Brand
+442,1885,11/21/2025,Own Damage,398107,0,Rejected,12,Authorized
+443,107,4/22/2026,Flood Damage,486752,378919,Approved,68,Cashless Network
+444,1383,1/11/2026,Total Loss,15009,0,Rejected,77,Authorized
+445,3298,3/11/2026,Natural Disaster,228056,0,Rejected,79,Multi Brand
+446,147,2/20/2026,Accidental Damage,289124,0,Pending,39,Cashless Network
+447,367,9/21/2025,Glass Damage,67238,50659,Approved,2,Local Garage
+448,3785,7/2/2025,Accidental Damage,169457,158775,Approved,68,Local Garage
+449,2439,6/27/2026,Glass Damage,244318,0,Pending,22,Cashless Network
+450,239,10/10/2025,Own Damage,92221,0,Rejected,20,Local Garage
+451,937,12/24/2025,Total Loss,421828,0,Pending,49,Cashless Network
+452,2394,2/25/2026,Own Damage,454568,0,Rejected,41,Multi Brand
+453,1897,12/25/2025,Glass Damage,170552,0,Pending,9,Cashless Network
+454,3155,2/3/2026,Theft Fire Damage,149904,17119,Approved,33,Cashless Network
+455,201,7/27/2025,Accidental Damage,436022,378852,Approved,39,Multi Brand
+456,3253,1/10/2026,Natural Disaster,295853,197759,Approved,54,Authorized
+457,3328,3/4/2026,Own Damage,207587,106854,Approved,49,Multi Brand
+458,326,6/11/2026,Glass Damage,105181,0,Rejected,25,Multi Brand
+459,1630,3/13/2026,Glass Damage,385356,161426,Approved,53,Authorized
+460,1636,9/23/2025,Total Loss,380757,0,Rejected,43,Authorized
+461,21,8/16/2025,Glass Damage,442701,56034,Approved,33,Multi Brand
+462,2067,6/30/2025,Natural Disaster,188065,0,Pending,71,Local Garage
+463,2622,3/31/2026,Flood Damage,326319,60742,Approved,55,Multi Brand
+464,1438,11/21/2025,Own Damage,130967,0,Pending,23,Authorized
+465,2305,12/2/2025,Engine Damage,254305,0,Pending,57,Multi Brand
+466,930,2/12/2026,Glass Damage,172105,0,Pending,42,Multi Brand
+467,1514,1/10/2026,Accidental Damage,375737,24903,Approved,57,Cashless Network
+468,3176,5/4/2026,Theft Fire Damage,232580,0,Rejected,13,Authorized
+469,1146,1/29/2026,Glass Damage,499980,0,Pending,66,Cashless Network
+470,3453,11/22/2025,Engine Damage,333842,0,Rejected,62,Local Garage
+471,204,7/22/2025,Own Damage,213007,197114,Approved,83,Local Garage
+472,1140,8/29/2025,Flood Damage,178075,0,Rejected,22,Local Garage
+473,36,2/18/2026,Natural Disaster,463503,0,Pending,84,Multi Brand
+474,3757,4/3/2026,Accidental Damage,88002,0,Pending,86,Local Garage
+475,1151,10/15/2025,Natural Disaster,343334,167753,Approved,54,Local Garage
+476,1237,5/4/2026,Natural Disaster,243910,0,Rejected,18,Cashless Network
+477,1513,9/7/2025,Natural Disaster,82120,0,Pending,18,Cashless Network
+478,494,12/21/2025,Total Loss,74760,0,Rejected,8,Multi Brand
+479,2938,10/19/2025,Total Loss,71252,11181,Approved,33,Multi Brand
+480,1068,10/25/2025,Accidental Damage,368483,74290,Approved,22,Cashless Network
+481,3307,3/3/2026,Engine Damage,215737,151802,Approved,63,Cashless Network
+482,120,8/6/2025,Accidental Damage,267490,8461,Approved,57,Local Garage
+483,233,5/1/2026,Theft Fire Damage,412210,0,Pending,81,Authorized
+484,846,2/24/2026,Flood Damage,347213,0,Pending,37,Local Garage
+485,2665,8/1/2025,Glass Damage,44938,0,Pending,46,Local Garage
+486,280,9/18/2025,Total Loss,145136,0,Rejected,90,Local Garage
+487,3597,11/11/2025,Accidental Damage,360761,0,Pending,9,Cashless Network
+488,3648,6/11/2026,Total Loss,94642,0,Pending,71,Local Garage
+489,2709,8/3/2025,Total Loss,304915,0,Rejected,28,Local Garage
+490,1163,7/15/2025,Glass Damage,107624,42510,Approved,83,Cashless Network
+491,2818,10/27/2025,Glass Damage,247127,0,Rejected,37,Local Garage
+492,3252,5/8/2026,Natural Disaster,187644,0,Pending,20,Authorized
+493,3845,6/19/2026,Accidental Damage,317290,0,Pending,30,Multi Brand
+494,2804,12/1/2025,Engine Damage,360620,0,Rejected,83,Authorized
+495,208,9/13/2025,Own Damage,319347,0,Rejected,32,Multi Brand
+496,2678,11/23/2025,Total Loss,114161,106406,Approved,27,Cashless Network
+497,3666,1/9/2026,Engine Damage,416639,340232,Approved,49,Cashless Network
+498,2103,5/10/2026,Glass Damage,397404,0,Rejected,1,Multi Brand
+499,2960,12/15/2025,Own Damage,236101,0,Rejected,11,Cashless Network
+500,2347,12/17/2025,Own Damage,448267,0,Rejected,66,Authorized
+501,318,9/9/2025,Glass Damage,283164,0,Pending,61,Local Garage
+502,594,11/24/2025,Own Damage,150744,0,Rejected,63,Authorized
+503,1751,3/2/2026,Glass Damage,10486,0,Pending,1,Authorized
+504,1773,11/6/2025,Flood Damage,409863,256954,Approved,17,Cashless Network
+505,2561,1/10/2026,Total Loss,57458,0,Rejected,34,Authorized
+506,845,8/13/2025,Natural Disaster,301275,0,Rejected,44,Multi Brand
+507,1056,3/19/2026,Flood Damage,352551,0,Rejected,50,Local Garage
+508,745,5/7/2026,Flood Damage,375911,335816,Approved,56,Cashless Network
+509,2714,10/30/2025,Natural Disaster,82610,0,Rejected,11,Cashless Network
+510,3380,6/15/2026,Theft Fire Damage,51164,0,Rejected,41,Authorized
+511,2916,3/18/2026,Natural Disaster,318264,0,Pending,69,Multi Brand
+512,2319,12/17/2025,Engine Damage,94760,22717,Approved,46,Local Garage
+513,3028,9/3/2025,Accidental Damage,253111,0,Rejected,6,Multi Brand
+514,2271,5/30/2026,Natural Disaster,357727,0,Rejected,50,Authorized
+515,405,6/12/2026,Flood Damage,109840,0,Rejected,24,Cashless Network
+516,1713,10/29/2025,Glass Damage,380938,0,Pending,51,Multi Brand
+517,371,6/13/2026,Natural Disaster,459004,430833,Approved,87,Authorized
+518,2640,8/17/2025,Flood Damage,66049,0,Pending,14,Local Garage
+519,3203,8/22/2025,Own Damage,156886,0,Pending,51,Multi Brand
+520,3131,7/27/2025,Accidental Damage,129607,0,Pending,61,Cashless Network
+521,15,10/7/2025,Glass Damage,487614,0,Rejected,53,Authorized
+522,1398,5/25/2026,Glass Damage,287776,0,Pending,33,Multi Brand
+523,2138,1/25/2026,Engine Damage,174747,42334,Approved,25,Local Garage
+524,1409,1/19/2026,Engine Damage,392908,0,Pending,88,Local Garage
+525,389,5/23/2026,Engine Damage,388870,24229,Approved,45,Multi Brand
+526,2787,6/12/2026,Engine Damage,339810,104472,Approved,64,Local Garage
+527,1267,8/24/2025,Own Damage,185692,0,Pending,42,Authorized
+528,337,3/17/2026,Engine Damage,339385,0,Pending,67,Cashless Network
+529,22,3/6/2026,Natural Disaster,328814,0,Rejected,67,Authorized
+530,1516,1/9/2026,Accidental Damage,331929,0,Pending,60,Multi Brand
+531,3479,1/11/2026,Flood Damage,390170,0,Rejected,65,Local Garage
+532,271,1/13/2026,Accidental Damage,122935,0,Rejected,83,Multi Brand
+533,3042,4/14/2026,Accidental Damage,269248,108244,Approved,40,Multi Brand
+534,1109,9/29/2025,Glass Damage,296132,74127,Approved,58,Authorized
+535,2630,11/13/2025,Total Loss,169303,0,Rejected,72,Authorized
+536,1838,2/24/2026,Natural Disaster,158887,0,Rejected,69,Authorized
+537,1018,4/13/2026,Own Damage,459753,258860,Approved,67,Authorized
+538,1920,8/8/2025,Engine Damage,107954,27179,Approved,3,Multi Brand
+539,1275,2/15/2026,Total Loss,466085,0,Rejected,61,Local Garage
+540,1848,9/8/2025,Engine Damage,82214,0,Rejected,8,Authorized
+541,2973,6/27/2026,Flood Damage,246333,0,Rejected,23,Multi Brand
+542,1272,7/5/2025,Own Damage,445996,103210,Approved,68,Authorized
+543,1021,7/27/2025,Flood Damage,16349,0,Rejected,6,Authorized
+544,971,2/3/2026,Engine Damage,286271,0,Pending,59,Multi Brand
+545,1531,9/24/2025,Engine Damage,433947,0,Pending,38,Local Garage
+546,751,5/15/2026,Flood Damage,490518,371590,Approved,56,Cashless Network
+547,1381,8/23/2025,Accidental Damage,316584,214907,Approved,25,Multi Brand
+548,3589,4/30/2026,Own Damage,350009,0,Rejected,50,Local Garage
+549,192,6/29/2025,Flood Damage,222858,0,Pending,90,Multi Brand
+550,788,8/12/2025,Own Damage,300144,0,Pending,41,Authorized
+551,1870,1/27/2026,Accidental Damage,298943,285999,Approved,72,Authorized
+552,3524,10/9/2025,Engine Damage,72220,0,Rejected,32,Cashless Network
+553,2509,10/21/2025,Natural Disaster,496443,0,Pending,76,Multi Brand
+554,3186,11/21/2025,Accidental Damage,277527,166086,Approved,25,Cashless Network
+555,1886,10/2/2025,Total Loss,114505,84442,Approved,66,Local Garage
+556,1137,10/10/2025,Natural Disaster,148089,0,Pending,81,Local Garage
+557,3069,6/5/2026,Accidental Damage,285472,119471,Approved,66,Authorized
+558,1110,12/31/2025,Flood Damage,300186,169526,Approved,50,Local Garage
+559,3241,5/8/2026,Natural Disaster,158796,0,Rejected,49,Multi Brand
+560,2725,2/22/2026,Theft Fire Damage,446112,0,Pending,52,Multi Brand
+561,654,4/30/2026,Flood Damage,86250,52935,Approved,34,Cashless Network
+562,3291,3/26/2026,Engine Damage,321738,0,Pending,31,Cashless Network
+563,1711,12/19/2025,Flood Damage,258964,0,Pending,43,Cashless Network
+564,2040,8/3/2025,Accidental Damage,412398,0,Rejected,46,Cashless Network
+565,589,2/11/2026,Accidental Damage,417073,0,Rejected,72,Local Garage
+566,521,6/1/2026,Natural Disaster,461295,0,Rejected,77,Authorized
+567,3090,7/18/2025,Theft Fire Damage,34673,6463,Approved,67,Cashless Network
+568,3638,2/27/2026,Glass Damage,29298,5569,Approved,65,Local Garage
+569,1945,10/11/2025,Total Loss,114514,0,Rejected,72,Local Garage
+570,2047,5/20/2026,Flood Damage,209970,0,Pending,57,Authorized
+571,578,4/23/2026,Flood Damage,89825,69969,Approved,62,Local Garage
+572,2259,3/26/2026,Engine Damage,291444,90254,Approved,24,Authorized
+573,3113,5/14/2026,Glass Damage,462835,0,Pending,60,Authorized
+574,3101,9/30/2025,Flood Damage,423205,0,Pending,81,Cashless Network
+575,182,2/4/2026,Natural Disaster,434585,0,Pending,53,Local Garage
+576,3358,4/24/2026,Accidental Damage,424434,0,Rejected,40,Local Garage
+577,3361,1/22/2026,Theft Fire Damage,396517,0,Pending,80,Local Garage
+578,2501,10/25/2025,Engine Damage,415984,0,Rejected,36,Multi Brand
+579,1203,3/20/2026,Accidental Damage,246912,0,Rejected,43,Local Garage
+580,775,8/6/2025,Engine Damage,404698,195499,Approved,32,Local Garage
+581,349,2/9/2026,Natural Disaster,452413,0,Pending,83,Cashless Network
+582,3265,8/3/2025,Own Damage,284933,0,Pending,70,Cashless Network
+583,3055,5/22/2026,Engine Damage,474889,0,Pending,73,Multi Brand
+584,74,12/4/2025,Theft Fire Damage,163437,47786,Approved,2,Local Garage
+585,3309,1/2/2026,Accidental Damage,74389,0,Pending,32,Cashless Network
+586,1299,4/25/2026,Natural Disaster,206863,0,Pending,45,Local Garage
+587,2604,6/18/2026,Own Damage,330485,0,Rejected,86,Multi Brand
+588,2810,2/28/2026,Own Damage,77983,36089,Approved,81,Local Garage
+589,526,11/29/2025,Own Damage,19545,0,Rejected,59,Multi Brand
+590,1265,8/12/2025,Theft Fire Damage,237450,8901,Approved,32,Authorized
+591,1668,3/16/2026,Total Loss,32228,21395,Approved,90,Multi Brand
+592,583,3/22/2026,Total Loss,480510,0,Pending,27,Local Garage
+593,2761,11/20/2025,Accidental Damage,81110,0,Pending,13,Authorized
+594,2544,7/16/2025,Engine Damage,21455,0,Rejected,61,Authorized
+595,3490,10/17/2025,Glass Damage,473293,17390,Approved,7,Multi Brand
+596,1356,11/27/2025,Total Loss,151647,46323,Approved,29,Multi Brand
+597,545,2/9/2026,Flood Damage,239055,0,Pending,90,Multi Brand
+598,679,7/5/2025,Own Damage,102240,0,Pending,27,Authorized
+599,165,10/14/2025,Accidental Damage,72960,0,Pending,42,Cashless Network
+600,3758,9/23/2025,Engine Damage,165330,63138,Approved,64,Authorized
+601,484,9/10/2025,Glass Damage,385172,0,Pending,67,Local Garage
+602,689,8/11/2025,Flood Damage,333221,0,Rejected,56,Authorized
+603,2747,7/11/2025,Natural Disaster,213240,0,Rejected,72,Multi Brand
+604,484,9/10/2025,Engine Damage,311006,120745,Approved,23,Authorized
+605,272,5/28/2026,Total Loss,434947,0,Pending,2,Authorized
+606,3943,8/29/2025,Own Damage,7442,0,Rejected,40,Authorized
+607,1664,2/2/2026,Natural Disaster,303498,0,Rejected,57,Authorized
+608,3992,5/2/2026,Accidental Damage,435315,0,Rejected,18,Local Garage
+609,985,1/15/2026,Own Damage,224000,159523,Approved,43,Authorized
+610,2352,12/1/2025,Engine Damage,23535,22706,Approved,42,Multi Brand
+611,3117,7/19/2025,Theft Fire Damage,59457,0,Rejected,48,Cashless Network
+612,570,9/23/2025,Own Damage,307329,253679,Approved,85,Cashless Network
+613,2120,9/18/2025,Theft Fire Damage,457115,0,Pending,87,Cashless Network
+614,3369,7/28/2025,Engine Damage,92032,0,Pending,46,Authorized
+615,3437,1/28/2026,Accidental Damage,338748,0,Pending,63,Authorized
+616,3661,11/1/2025,Own Damage,299587,0,Rejected,72,Authorized
+617,2557,4/6/2026,Accidental Damage,252998,0,Pending,21,Local Garage
+618,2144,7/3/2025,Engine Damage,385300,195173,Approved,2,Multi Brand
+619,1174,8/31/2025,Own Damage,378316,0,Rejected,71,Cashless Network
+620,2898,8/1/2025,Flood Damage,206383,0,Rejected,23,Multi Brand
+621,2182,5/11/2026,Engine Damage,237874,72922,Approved,19,Local Garage
+622,2865,3/13/2026,Natural Disaster,222242,0,Rejected,2,Authorized
+623,3907,5/16/2026,Total Loss,314534,113801,Approved,62,Local Garage
+624,1126,12/22/2025,Theft Fire Damage,136030,0,Rejected,4,Cashless Network
+625,3767,7/11/2025,Natural Disaster,215807,0,Rejected,5,Local Garage
+626,2702,10/19/2025,Own Damage,210403,78404,Approved,78,Authorized
+627,3090,12/19/2025,Flood Damage,269688,0,Rejected,20,Local Garage
+628,3066,6/2/2026,Own Damage,370288,232078,Approved,74,Cashless Network
+629,2933,10/14/2025,Engine Damage,443293,0,Pending,37,Cashless Network
+630,2898,12/20/2025,Total Loss,333160,0,Pending,7,Authorized
+631,3247,3/9/2026,Natural Disaster,458700,0,Rejected,18,Local Garage
+632,2747,10/15/2025,Flood Damage,141571,0,Rejected,43,Cashless Network
+633,3322,6/17/2026,Theft Fire Damage,220150,0,Pending,22,Authorized
+634,2654,4/25/2026,Accidental Damage,208388,97027,Approved,13,Authorized
+635,3501,1/23/2026,Accidental Damage,217494,91079,Approved,20,Multi Brand
+636,1425,8/30/2025,Flood Damage,22198,8110,Approved,69,Local Garage
+637,2061,3/25/2026,Glass Damage,238071,73014,Approved,51,Multi Brand
+638,1303,4/15/2026,Engine Damage,152218,56506,Approved,87,Multi Brand
+639,1007,12/2/2025,Flood Damage,249293,28841,Approved,70,Multi Brand
+640,2035,5/17/2026,Accidental Damage,239582,0,Pending,16,Multi Brand
+641,3641,1/13/2026,Engine Damage,462360,33137,Approved,1,Cashless Network
+642,897,10/3/2025,Natural Disaster,477374,0,Pending,89,Local Garage
+643,2395,9/22/2025,Theft Fire Damage,47321,0,Rejected,32,Local Garage
+644,1586,10/20/2025,Theft Fire Damage,297076,0,Pending,19,Cashless Network
+645,2113,2/22/2026,Natural Disaster,186426,0,Rejected,54,Multi Brand
+646,1442,12/28/2025,Flood Damage,155016,135255,Approved,65,Cashless Network
+647,2828,5/23/2026,Flood Damage,387012,0,Rejected,17,Multi Brand
+648,2665,2/9/2026,Accidental Damage,232023,0,Pending,4,Cashless Network
+649,194,11/9/2025,Own Damage,307436,119298,Approved,90,Cashless Network
+650,2729,8/5/2025,Theft Fire Damage,117074,0,Pending,1,Authorized
+651,2550,6/23/2026,Flood Damage,182666,0,Pending,18,Cashless Network
+652,3936,4/3/2026,Natural Disaster,480560,0,Pending,34,Multi Brand
+653,3642,6/7/2026,Own Damage,120239,0,Pending,5,Local Garage
+654,895,5/29/2026,Accidental Damage,282671,0,Pending,48,Cashless Network
+655,806,8/20/2025,Theft Fire Damage,42813,0,Rejected,27,Multi Brand
+656,3985,11/26/2025,Engine Damage,97733,0,Pending,18,Multi Brand
+657,2362,6/3/2026,Glass Damage,230264,0,Pending,66,Cashless Network
+658,1639,12/28/2025,Engine Damage,277475,0,Rejected,42,Local Garage
+659,3083,4/24/2026,Flood Damage,455087,346141,Approved,85,Local Garage
+660,285,8/12/2025,Flood Damage,21702,0,Rejected,56,Multi Brand
+661,1227,1/25/2026,Flood Damage,244417,0,Rejected,25,Local Garage
+662,1409,6/27/2026,Flood Damage,498655,0,Pending,56,Multi Brand
+663,1939,12/6/2025,Flood Damage,280376,149262,Approved,9,Local Garage
+664,284,5/27/2026,Glass Damage,461985,0,Rejected,56,Multi Brand
+665,947,4/25/2026,Engine Damage,347319,0,Rejected,22,Cashless Network
+666,341,10/20/2025,Theft Fire Damage,180500,30005,Approved,66,Cashless Network
+667,2328,4/2/2026,Engine Damage,252319,0,Pending,5,Local Garage
+668,873,6/18/2026,Theft Fire Damage,219076,0,Rejected,52,Cashless Network
+669,1174,6/1/2026,Glass Damage,13225,0,Rejected,64,Multi Brand
+670,2432,9/6/2025,Natural Disaster,456813,243148,Approved,77,Cashless Network
+671,2712,3/21/2026,Theft Fire Damage,421807,31019,Approved,35,Local Garage
+672,620,6/9/2026,Theft Fire Damage,416209,0,Rejected,23,Multi Brand
+673,3000,9/21/2025,Flood Damage,281983,0,Rejected,83,Authorized
+674,1258,8/21/2025,Flood Damage,30745,0,Rejected,20,Local Garage
+675,2755,4/24/2026,Flood Damage,447134,0,Pending,85,Authorized
+676,3685,10/13/2025,Accidental Damage,98515,79762,Approved,36,Authorized
+677,1461,5/2/2026,Flood Damage,325052,0,Pending,77,Multi Brand
+678,298,8/22/2025,Own Damage,131007,0,Pending,75,Multi Brand
+679,2051,5/2/2026,Total Loss,483790,177442,Approved,46,Authorized
+680,2693,8/8/2025,Own Damage,385511,322782,Approved,85,Multi Brand
+681,3473,6/12/2026,Own Damage,280322,169759,Approved,36,Authorized
+682,2635,12/30/2025,Glass Damage,105088,0,Rejected,68,Cashless Network
+683,1836,1/18/2026,Glass Damage,248487,0,Pending,7,Cashless Network
+684,1181,2/17/2026,Total Loss,429506,0,Rejected,3,Local Garage
+685,2102,7/28/2025,Theft Fire Damage,351844,0,Pending,72,Cashless Network
+686,3841,3/8/2026,Glass Damage,410601,0,Rejected,11,Local Garage
+687,2529,2/6/2026,Flood Damage,165069,0,Pending,29,Authorized
+688,2091,12/14/2025,Own Damage,45371,32965,Approved,54,Cashless Network
+689,3721,8/11/2025,Glass Damage,152929,98504,Approved,58,Multi Brand
+690,3016,9/19/2025,Natural Disaster,284770,0,Pending,27,Authorized
+691,3141,6/6/2026,Accidental Damage,60263,58699,Approved,25,Local Garage
+692,807,1/4/2026,Glass Damage,250986,0,Rejected,28,Local Garage
+693,2290,6/17/2026,Flood Damage,243201,0,Rejected,86,Authorized
+694,3218,12/17/2025,Glass Damage,314708,98657,Approved,90,Multi Brand
+695,438,3/10/2026,Flood Damage,334950,0,Rejected,15,Local Garage
+696,1345,7/1/2025,Theft Fire Damage,222675,0,Pending,45,Authorized
+697,223,8/29/2025,Engine Damage,167188,0,Pending,87,Cashless Network
+698,2373,11/23/2025,Accidental Damage,457253,0,Pending,82,Cashless Network
+699,3752,11/14/2025,Total Loss,271636,0,Pending,5,Local Garage
+700,3672,7/24/2025,Theft Fire Damage,101065,0,Pending,6,Multi Brand
+701,739,5/27/2026,Natural Disaster,278838,38133,Approved,3,Authorized
+702,2087,1/24/2026,Own Damage,471932,0,Pending,2,Local Garage
+703,2926,7/5/2025,Natural Disaster,226225,0,Rejected,83,Multi Brand
+704,684,2/17/2026,Engine Damage,19934,0,Rejected,85,Authorized
+705,1476,1/6/2026,Glass Damage,218068,0,Pending,51,Multi Brand
+706,1891,9/29/2025,Engine Damage,358944,0,Pending,86,Local Garage
+707,826,8/29/2025,Own Damage,381859,0,Pending,88,Cashless Network
+708,438,6/28/2025,Flood Damage,33925,12298,Approved,75,Local Garage
+709,3559,4/30/2026,Total Loss,36918,0,Rejected,14,Local Garage
+710,487,1/11/2026,Flood Damage,361026,0,Rejected,1,Local Garage
+711,2668,7/11/2025,Theft Fire Damage,489712,427659,Approved,68,Authorized
+712,1085,11/19/2025,Accidental Damage,325371,0,Rejected,76,Local Garage
+713,1707,1/12/2026,Natural Disaster,164298,0,Pending,73,Cashless Network
+714,959,11/4/2025,Own Damage,28593,8776,Approved,81,Local Garage
+715,2267,11/17/2025,Flood Damage,16011,0,Pending,52,Authorized
+716,2196,9/12/2025,Flood Damage,430918,0,Pending,51,Authorized
+717,2230,5/16/2026,Natural Disaster,279475,0,Rejected,3,Multi Brand
+718,3241,6/20/2026,Natural Disaster,196684,0,Pending,40,Multi Brand
+719,1829,11/27/2025,Total Loss,116289,0,Rejected,7,Local Garage
+720,3300,10/6/2025,Natural Disaster,245220,157107,Approved,68,Local Garage
+721,2740,1/22/2026,Flood Damage,380534,0,Pending,26,Cashless Network
+722,2122,10/19/2025,Accidental Damage,184965,64891,Approved,60,Cashless Network
+723,179,5/16/2026,Glass Damage,47011,42429,Approved,5,Local Garage
+724,625,2/1/2026,Engine Damage,371612,0,Rejected,72,Multi Brand
+725,1984,3/23/2026,Theft Fire Damage,479910,0,Pending,37,Local Garage
+726,2874,5/21/2026,Engine Damage,153401,0,Pending,88,Cashless Network
+727,1750,9/8/2025,Natural Disaster,106133,0,Rejected,52,Authorized
+728,3926,9/28/2025,Total Loss,343405,255100,Approved,66,Multi Brand
+729,489,10/11/2025,Accidental Damage,214860,0,Rejected,78,Local Garage
+730,341,2/18/2026,Own Damage,481068,0,Pending,59,Cashless Network
+731,2616,2/21/2026,Natural Disaster,182923,0,Rejected,51,Local Garage
+732,1431,12/19/2025,Own Damage,334319,0,Rejected,69,Cashless Network
+733,130,10/25/2025,Total Loss,386284,0,Pending,28,Cashless Network
+734,3735,1/9/2026,Total Loss,139120,12282,Approved,26,Authorized
+735,609,9/26/2025,Theft Fire Damage,158550,0,Rejected,70,Authorized
+736,3892,12/1/2025,Natural Disaster,462466,151728,Approved,59,Local Garage
+737,1919,4/1/2026,Engine Damage,84756,0,Pending,36,Local Garage
+738,3979,2/6/2026,Flood Damage,146062,0,Rejected,75,Cashless Network
+739,1530,5/10/2026,Theft Fire Damage,392353,0,Pending,79,Authorized
+740,525,10/4/2025,Theft Fire Damage,279336,0,Rejected,82,Local Garage
+741,283,1/5/2026,Theft Fire Damage,277905,0,Rejected,84,Local Garage
+742,2694,6/1/2026,Natural Disaster,484088,0,Pending,46,Cashless Network
+743,2432,12/27/2025,Natural Disaster,24579,0,Pending,3,Multi Brand
+744,1425,2/26/2026,Flood Damage,318379,81963,Approved,55,Cashless Network
+745,3219,12/30/2025,Theft Fire Damage,198352,0,Pending,37,Local Garage
+746,2423,8/2/2025,Flood Damage,204638,0,Rejected,81,Multi Brand
+747,931,8/8/2025,Theft Fire Damage,299492,0,Pending,5,Local Garage
+748,1501,2/7/2026,Flood Damage,131937,0,Rejected,34,Authorized
+749,3298,5/26/2026,Own Damage,141421,0,Pending,36,Multi Brand
+750,2903,12/1/2025,Flood Damage,74145,0,Rejected,36,Authorized
+751,2216,10/4/2025,Engine Damage,458288,0,Pending,56,Multi Brand
+752,2529,11/24/2025,Own Damage,295659,0,Pending,73,Local Garage
+753,749,8/17/2025,Total Loss,396603,0,Pending,41,Cashless Network
+754,3129,1/10/2026,Natural Disaster,152446,0,Rejected,46,Authorized
+755,3342,2/24/2026,Theft Fire Damage,209078,0,Pending,54,Cashless Network
+756,2598,2/17/2026,Natural Disaster,400865,189350,Approved,1,Multi Brand
+757,3205,12/21/2025,Own Damage,96406,0,Pending,84,Multi Brand
+758,2113,7/29/2025,Own Damage,461395,0,Pending,62,Local Garage
+759,2332,1/4/2026,Total Loss,311416,0,Rejected,32,Authorized
+760,1588,5/10/2026,Accidental Damage,487869,0,Rejected,78,Authorized
+761,2059,7/11/2025,Total Loss,290728,0,Rejected,83,Multi Brand
+762,1945,12/21/2025,Flood Damage,404912,0,Rejected,7,Authorized
+763,2563,12/14/2025,Natural Disaster,120335,63932,Approved,19,Cashless Network
+764,2954,2/26/2026,Natural Disaster,296837,33559,Approved,70,Authorized
+765,3767,8/9/2025,Theft Fire Damage,69180,15149,Approved,1,Authorized
+766,3610,7/8/2025,Natural Disaster,353919,0,Rejected,15,Multi Brand
+767,525,11/27/2025,Total Loss,299806,0,Rejected,79,Authorized
+768,1393,5/25/2026,Flood Damage,112435,0,Pending,28,Local Garage
+769,2713,4/14/2026,Accidental Damage,478023,130715,Approved,54,Multi Brand
+770,3978,9/10/2025,Natural Disaster,180498,0,Rejected,46,Cashless Network
+771,235,12/9/2025,Own Damage,142675,0,Pending,52,Cashless Network
+772,1265,6/24/2026,Own Damage,244326,0,Pending,47,Local Garage
+773,954,10/18/2025,Flood Damage,302325,26939,Approved,66,Cashless Network
+774,889,6/6/2026,Engine Damage,155046,0,Rejected,85,Authorized
+775,2724,10/1/2025,Total Loss,333766,143980,Approved,89,Multi Brand
+776,1560,2/26/2026,Flood Damage,47400,0,Rejected,83,Authorized
+777,273,5/20/2026,Natural Disaster,297891,0,Rejected,47,Cashless Network
+778,98,8/26/2025,Own Damage,403250,0,Pending,18,Cashless Network
+779,58,8/22/2025,Engine Damage,404706,0,Pending,32,Multi Brand
+780,835,12/14/2025,Engine Damage,458635,436124,Approved,31,Authorized
+781,2338,1/9/2026,Total Loss,451138,428741,Approved,36,Multi Brand
+782,132,10/10/2025,Glass Damage,211319,0,Pending,47,Local Garage
+783,599,2/5/2026,Theft Fire Damage,198295,0,Rejected,6,Multi Brand
+784,3590,1/8/2026,Glass Damage,471501,0,Pending,72,Multi Brand
+785,3357,12/13/2025,Natural Disaster,88716,0,Rejected,8,Authorized
+786,1156,3/19/2026,Engine Damage,48184,16117,Approved,23,Authorized
+787,2203,11/21/2025,Natural Disaster,156846,0,Rejected,74,Cashless Network
+788,3155,5/16/2026,Flood Damage,254008,0,Rejected,49,Authorized
+789,190,11/16/2025,Glass Damage,92008,0,Pending,49,Local Garage
+790,817,9/19/2025,Accidental Damage,312138,0,Rejected,65,Multi Brand
+791,2944,11/20/2025,Glass Damage,127844,0,Pending,56,Local Garage
+792,197,11/16/2025,Theft Fire Damage,67707,0,Pending,22,Authorized
+793,3056,4/19/2026,Theft Fire Damage,189919,130084,Approved,39,Multi Brand
+794,2376,11/16/2025,Theft Fire Damage,216862,0,Rejected,66,Authorized
+795,2232,3/29/2026,Theft Fire Damage,346578,0,Pending,89,Cashless Network
+796,437,12/14/2025,Natural Disaster,397321,209627,Approved,27,Multi Brand
+797,3710,9/17/2025,Total Loss,126429,109602,Approved,45,Multi Brand
+798,2919,7/30/2025,Accidental Damage,187773,0,Rejected,36,Local Garage
+799,863,3/26/2026,Glass Damage,419013,0,Pending,72,Multi Brand
+800,1033,11/18/2025,Accidental Damage,404110,0,Pending,41,Authorized
+801,1848,11/9/2025,Total Loss,442306,44879,Approved,4,Local Garage
+802,477,5/19/2026,Theft Fire Damage,159204,0,Pending,16,Local Garage
+803,21,8/19/2025,Theft Fire Damage,209138,0,Pending,11,Cashless Network
+804,2488,7/1/2025,Accidental Damage,55577,39544,Approved,71,Local Garage
+805,3780,6/1/2026,Engine Damage,233150,180877,Approved,2,Multi Brand
+806,972,4/22/2026,Natural Disaster,381196,0,Rejected,59,Multi Brand
+807,822,7/12/2025,Theft Fire Damage,338369,0,Pending,6,Multi Brand
+808,1109,10/4/2025,Total Loss,419792,0,Rejected,4,Cashless Network
+809,1512,2/4/2026,Accidental Damage,103564,0,Rejected,24,Local Garage
+810,360,10/5/2025,Engine Damage,271384,0,Pending,48,Authorized
+811,3008,8/14/2025,Total Loss,320190,0,Pending,32,Local Garage
+812,1605,10/23/2025,Theft Fire Damage,304250,0,Rejected,27,Cashless Network
+813,2697,4/10/2026,Glass Damage,19670,17542,Approved,36,Local Garage
+814,855,7/6/2025,Total Loss,22928,16901,Approved,67,Cashless Network
+815,314,8/15/2025,Theft Fire Damage,171295,0,Pending,56,Multi Brand
+816,547,2/25/2026,Natural Disaster,222076,209255,Approved,69,Multi Brand
+817,3447,5/27/2026,Engine Damage,199521,0,Rejected,51,Local Garage
+818,3687,5/8/2026,Total Loss,493367,0,Rejected,8,Multi Brand
+819,464,2/4/2026,Own Damage,425764,0,Pending,72,Multi Brand
+820,1695,11/29/2025,Theft Fire Damage,52214,15490,Approved,71,Multi Brand
+821,1087,9/2/2025,Total Loss,263089,0,Pending,38,Multi Brand
+822,2687,1/21/2026,Flood Damage,41852,0,Rejected,80,Local Garage
+823,3803,4/6/2026,Natural Disaster,481543,0,Rejected,22,Local Garage
+824,1144,11/6/2025,Natural Disaster,360276,0,Pending,53,Local Garage
+825,3775,5/1/2026,Flood Damage,60499,49426,Approved,46,Local Garage
+826,1138,8/2/2025,Flood Damage,473425,232599,Approved,59,Authorized
+827,2875,4/16/2026,Flood Damage,288523,0,Rejected,54,Authorized
+828,2496,9/27/2025,Accidental Damage,62794,0,Pending,71,Multi Brand
+829,2793,3/22/2026,Total Loss,259008,0,Pending,59,Cashless Network
+830,393,4/10/2026,Natural Disaster,173693,0,Pending,69,Local Garage
+831,851,1/17/2026,Total Loss,199891,0,Rejected,38,Authorized
+832,1726,7/11/2025,Theft Fire Damage,189840,0,Rejected,46,Multi Brand
+833,316,9/3/2025,Accidental Damage,210898,0,Pending,75,Cashless Network
+834,1609,9/12/2025,Total Loss,70694,0,Rejected,17,Local Garage
+835,2926,10/19/2025,Theft Fire Damage,33124,0,Rejected,69,Local Garage
+836,3453,4/15/2026,Own Damage,184171,0,Pending,10,Multi Brand
+837,3334,4/9/2026,Flood Damage,290994,34619,Approved,89,Cashless Network
+838,3526,3/23/2026,Engine Damage,32613,0,Rejected,4,Cashless Network
+839,2925,12/26/2025,Accidental Damage,234111,0,Pending,72,Cashless Network
+840,677,4/5/2026,Engine Damage,54540,0,Pending,89,Multi Brand
+841,3949,11/3/2025,Total Loss,143839,0,Pending,24,Multi Brand
+842,3493,3/4/2026,Own Damage,375609,0,Pending,64,Multi Brand
+843,3671,1/2/2026,Accidental Damage,62243,0,Pending,39,Multi Brand
+844,1409,5/1/2026,Engine Damage,271177,0,Pending,49,Multi Brand
+845,1111,8/30/2025,Engine Damage,41813,5851,Approved,40,Multi Brand
+846,823,12/1/2025,Flood Damage,280122,0,Rejected,82,Local Garage
+847,116,11/23/2025,Theft Fire Damage,111115,20765,Approved,12,Multi Brand
+848,925,10/4/2025,Flood Damage,258062,138735,Approved,48,Authorized
+849,967,6/28/2025,Accidental Damage,426489,0,Pending,18,Multi Brand
+850,591,10/4/2025,Accidental Damage,106769,0,Pending,80,Cashless Network
+851,198,3/19/2026,Total Loss,243533,161610,Approved,44,Cashless Network
+852,2604,9/9/2025,Theft Fire Damage,59237,0,Rejected,88,Local Garage
+853,2207,11/9/2025,Own Damage,226434,0,Rejected,78,Multi Brand
+854,1821,9/10/2025,Glass Damage,49245,0,Pending,27,Cashless Network
+855,2210,12/13/2025,Total Loss,35994,0,Pending,35,Cashless Network
+856,782,3/25/2026,Flood Damage,315165,164198,Approved,62,Authorized
+857,923,8/5/2025,Engine Damage,390416,0,Rejected,46,Multi Brand
+858,1477,4/29/2026,Own Damage,186591,0,Pending,84,Local Garage
+859,2268,10/6/2025,Glass Damage,171581,0,Pending,85,Multi Brand
+860,2273,1/24/2026,Own Damage,304959,0,Pending,36,Multi Brand
+861,1009,4/23/2026,Engine Damage,495510,0,Pending,74,Authorized
+862,151,8/3/2025,Theft Fire Damage,270664,0,Pending,47,Cashless Network
+863,2974,10/25/2025,Own Damage,86333,20327,Approved,80,Authorized
+864,1827,9/30/2025,Accidental Damage,116274,0,Pending,43,Cashless Network
+865,1014,5/13/2026,Flood Damage,110080,0,Rejected,47,Authorized
+866,2769,5/29/2026,Accidental Damage,216792,131231,Approved,19,Authorized
+867,1365,7/13/2025,Natural Disaster,452637,0,Pending,69,Multi Brand
+868,1044,3/31/2026,Theft Fire Damage,206639,185276,Approved,47,Authorized
+869,1885,6/25/2026,Own Damage,146841,12299,Approved,23,Authorized
+870,3921,11/29/2025,Natural Disaster,396256,0,Rejected,14,Cashless Network
+871,2587,4/23/2026,Theft Fire Damage,263993,0,Pending,27,Local Garage
+872,3876,9/23/2025,Engine Damage,308157,51120,Approved,54,Cashless Network
+873,2032,11/9/2025,Own Damage,151320,72734,Approved,51,Local Garage
+874,3291,3/19/2026,Theft Fire Damage,398549,0,Pending,90,Cashless Network
+875,2852,1/11/2026,Total Loss,133669,0,Rejected,25,Local Garage
+876,422,6/24/2026,Theft Fire Damage,101704,0,Rejected,68,Multi Brand
+877,2921,1/1/2026,Total Loss,386034,0,Rejected,34,Local Garage
+878,1590,4/24/2026,Natural Disaster,394260,150979,Approved,53,Multi Brand
+879,1889,1/14/2026,Glass Damage,300264,287082,Approved,25,Authorized
+880,3279,6/26/2026,Natural Disaster,307064,0,Pending,74,Cashless Network
+881,2593,8/7/2025,Theft Fire Damage,120430,0,Rejected,9,Local Garage
+882,1760,5/29/2026,Accidental Damage,290889,0,Pending,74,Cashless Network
+883,2263,6/15/2026,Theft Fire Damage,371037,0,Pending,4,Authorized
+884,1473,5/16/2026,Flood Damage,246838,0,Rejected,49,Authorized
+885,2148,4/5/2026,Total Loss,71347,0,Pending,30,Local Garage
+886,1915,9/21/2025,Flood Damage,213986,181782,Approved,35,Local Garage
+887,201,4/26/2026,Engine Damage,214067,129315,Approved,33,Local Garage
+888,2625,10/1/2025,Theft Fire Damage,404470,29809,Approved,54,Cashless Network
+889,1561,1/12/2026,Own Damage,138200,97204,Approved,69,Multi Brand
+890,2178,9/11/2025,Flood Damage,279663,0,Pending,11,Authorized
+891,1883,3/28/2026,Flood Damage,302822,196134,Approved,21,Local Garage
+892,864,10/28/2025,Engine Damage,470309,0,Pending,82,Authorized
+893,1670,1/31/2026,Engine Damage,266440,0,Rejected,17,Cashless Network
+894,536,10/5/2025,Own Damage,426802,166773,Approved,15,Cashless Network
+895,52,7/19/2025,Glass Damage,271612,0,Rejected,58,Multi Brand
+896,1558,12/30/2025,Glass Damage,194308,124507,Approved,1,Authorized
+897,905,1/10/2026,Engine Damage,82007,0,Rejected,56,Cashless Network
+898,3903,6/12/2026,Accidental Damage,368137,141793,Approved,7,Cashless Network
+899,3314,8/17/2025,Flood Damage,417610,0,Rejected,27,Local Garage
+900,3941,6/30/2025,Engine Damage,164763,0,Pending,5,Multi Brand
+901,26,10/21/2025,Glass Damage,378525,77082,Approved,72,Cashless Network
+902,1296,2/3/2026,Glass Damage,448809,0,Rejected,32,Local Garage
+903,698,2/8/2026,Engine Damage,109692,55885,Approved,55,Cashless Network
+904,1223,4/1/2026,Theft Fire Damage,29323,27404,Approved,82,Multi Brand
+905,29,8/4/2025,Engine Damage,472826,0,Pending,7,Multi Brand
+906,2507,9/25/2025,Natural Disaster,429072,194020,Approved,78,Cashless Network
+907,1991,1/4/2026,Flood Damage,126270,0,Rejected,73,Cashless Network
+908,1936,6/25/2026,Total Loss,192497,0,Rejected,80,Cashless Network
+909,2004,1/21/2026,Own Damage,463135,0,Rejected,33,Authorized
+910,2668,8/31/2025,Flood Damage,279444,0,Pending,25,Cashless Network
+911,2062,8/1/2025,Accidental Damage,373520,0,Pending,49,Authorized
+912,2636,10/20/2025,Accidental Damage,457945,127318,Approved,68,Local Garage
+913,2342,8/6/2025,Flood Damage,97752,0,Pending,34,Cashless Network
+914,202,12/2/2025,Own Damage,241823,37261,Approved,68,Cashless Network
+915,1498,3/15/2026,Glass Damage,127025,0,Rejected,21,Authorized
+916,2669,1/5/2026,Theft Fire Damage,478956,342111,Approved,7,Authorized
+917,3200,4/4/2026,Natural Disaster,145499,0,Rejected,25,Cashless Network
+918,2603,8/27/2025,Own Damage,428927,135076,Approved,7,Local Garage
+919,2030,7/13/2025,Total Loss,443787,0,Pending,84,Multi Brand
+920,3698,10/5/2025,Natural Disaster,161806,102421,Approved,74,Local Garage
+921,2099,3/30/2026,Engine Damage,432413,0,Rejected,10,Authorized
+922,2991,10/17/2025,Theft Fire Damage,236812,0,Rejected,42,Cashless Network
+923,2935,6/9/2026,Accidental Damage,477843,280067,Approved,15,Multi Brand
+924,3994,1/9/2026,Accidental Damage,63991,0,Rejected,3,Local Garage
+925,815,10/18/2025,Total Loss,77253,66168,Approved,16,Local Garage
+926,2389,9/3/2025,Glass Damage,276267,0,Rejected,75,Multi Brand
+927,2635,9/26/2025,Accidental Damage,306348,183772,Approved,29,Multi Brand
+928,1215,7/29/2025,Engine Damage,462794,0,Rejected,4,Local Garage
+929,2784,3/15/2026,Accidental Damage,321342,7236,Approved,1,Authorized
+930,1132,4/16/2026,Own Damage,33436,0,Rejected,5,Cashless Network
+931,3463,5/5/2026,Own Damage,263965,0,Pending,87,Local Garage
+932,2978,8/31/2025,Theft Fire Damage,69127,0,Rejected,28,Authorized
+933,1191,8/7/2025,Own Damage,90958,0,Pending,89,Authorized
+934,283,2/1/2026,Natural Disaster,173281,0,Rejected,8,Multi Brand
+935,3081,11/13/2025,Total Loss,386716,0,Rejected,32,Authorized
+936,29,11/2/2025,Own Damage,337281,167268,Approved,8,Local Garage
+937,2679,11/20/2025,Theft Fire Damage,138208,0,Rejected,6,Cashless Network
+938,1882,4/17/2026,Own Damage,396234,0,Pending,75,Local Garage
+939,962,11/30/2025,Theft Fire Damage,417095,161806,Approved,64,Multi Brand
+940,1102,2/11/2026,Engine Damage,262841,0,Rejected,36,Multi Brand
+941,2427,5/17/2026,Natural Disaster,218671,0,Pending,27,Multi Brand
+942,3442,2/11/2026,Engine Damage,358805,0,Rejected,12,Multi Brand
+943,3441,10/5/2025,Flood Damage,225273,0,Pending,61,Cashless Network
+944,1887,10/11/2025,Natural Disaster,153910,0,Pending,28,Authorized
+945,432,5/3/2026,Flood Damage,121471,0,Pending,15,Multi Brand
+946,2118,10/21/2025,Flood Damage,497890,84270,Approved,55,Local Garage
+947,1587,6/29/2025,Accidental Damage,476545,0,Rejected,53,Local Garage
+948,309,8/13/2025,Theft Fire Damage,324641,0,Pending,50,Local Garage
+949,8,1/19/2026,Own Damage,469540,0,Rejected,85,Multi Brand
+950,157,4/28/2026,Flood Damage,266069,0,Pending,46,Multi Brand
+951,2789,11/15/2025,Engine Damage,457868,0,Rejected,23,Cashless Network
+952,1160,5/10/2026,Engine Damage,300078,0,Pending,2,Authorized
+953,1386,3/1/2026,Accidental Damage,474842,0,Rejected,22,Cashless Network
+954,3192,4/24/2026,Flood Damage,321400,0,Rejected,66,Authorized
+955,768,9/3/2025,Own Damage,6390,0,Rejected,90,Cashless Network
+956,3965,10/7/2025,Accidental Damage,202425,142730,Approved,44,Local Garage
+957,146,10/7/2025,Engine Damage,335150,0,Rejected,7,Authorized
+958,1685,10/3/2025,Total Loss,444921,0,Pending,7,Local Garage
+959,862,12/7/2025,Accidental Damage,315220,0,Rejected,81,Cashless Network
+960,256,11/20/2025,Total Loss,290996,0,Pending,78,Cashless Network
+961,2933,6/3/2026,Accidental Damage,55643,0,Rejected,15,Multi Brand
+962,2620,8/12/2025,Glass Damage,337469,272571,Approved,68,Local Garage
+963,1153,3/4/2026,Accidental Damage,161422,97168,Approved,52,Multi Brand
+964,1964,8/14/2025,Accidental Damage,21411,5131,Approved,27,Authorized
+965,2387,9/22/2025,Engine Damage,105114,85107,Approved,47,Authorized
+966,415,8/27/2025,Accidental Damage,39353,0,Pending,12,Multi Brand
+967,525,12/2/2025,Own Damage,303303,79669,Approved,19,Authorized
+968,1463,5/9/2026,Accidental Damage,118979,0,Pending,36,Local Garage
+969,387,4/10/2026,Engine Damage,497932,0,Pending,53,Cashless Network
+970,111,6/9/2026,Natural Disaster,121965,0,Rejected,41,Cashless Network
+971,526,10/23/2025,Theft Fire Damage,28429,0,Rejected,27,Multi Brand
+972,3315,3/19/2026,Own Damage,126624,0,Rejected,45,Multi Brand
+973,2958,1/1/2026,Engine Damage,259123,0,Rejected,35,Cashless Network
+974,269,8/19/2025,Accidental Damage,209537,208137,Approved,27,Authorized
+975,1375,6/6/2026,Glass Damage,50609,0,Pending,9,Multi Brand
+976,2133,5/12/2026,Natural Disaster,279336,0,Rejected,43,Local Garage
+977,1202,10/31/2025,Engine Damage,465974,266437,Approved,86,Multi Brand
+978,1150,2/2/2026,Own Damage,177014,0,Pending,14,Multi Brand
+979,3385,1/14/2026,Glass Damage,313124,0,Pending,54,Multi Brand
+980,232,6/26/2026,Total Loss,479721,0,Pending,75,Local Garage
+981,2,1/30/2026,Glass Damage,275447,0,Rejected,21,Local Garage
+982,815,1/23/2026,Glass Damage,251294,0,Rejected,5,Authorized
+983,1297,12/28/2025,Theft Fire Damage,241984,236295,Approved,81,Multi Brand
+984,1053,8/14/2025,Flood Damage,498001,373885,Approved,61,Multi Brand
+985,136,3/7/2026,Own Damage,497456,0,Pending,62,Multi Brand
+986,593,12/30/2025,Theft Fire Damage,453038,89715,Approved,12,Authorized
+987,1959,2/6/2026,Flood Damage,336730,0,Pending,75,Local Garage
+988,3578,5/21/2026,Engine Damage,239654,0,Pending,21,Local Garage
+989,638,6/11/2026,Glass Damage,299615,0,Rejected,56,Multi Brand
+990,3109,9/25/2025,Glass Damage,19732,5371,Approved,5,Multi Brand
+991,1113,1/11/2026,Flood Damage,357433,0,Pending,30,Local Garage
+992,415,1/4/2026,Natural Disaster,279796,0,Rejected,28,Multi Brand
+993,1502,10/11/2025,Theft Fire Damage,409503,144871,Approved,84,Authorized
+994,2584,9/12/2025,Flood Damage,82835,19735,Approved,89,Multi Brand
+995,2794,1/31/2026,Glass Damage,170052,17963,Approved,65,Cashless Network
+996,1551,11/30/2025,Engine Damage,460449,332318,Approved,44,Multi Brand
+997,1612,10/4/2025,Engine Damage,330752,312831,Approved,81,Authorized
+998,3854,2/9/2026,Flood Damage,112473,0,Pending,56,Cashless Network
+999,1274,6/29/2025,Theft Fire Damage,393073,225361,Approved,24,Authorized
+1000,2341,2/25/2026,Engine Damage,64964,33331,Approved,4,Cashless Network
+1001,3563,7/5/2025,Glass Damage,74388,0,Pending,86,Authorized
+1002,1183,9/9/2025,Engine Damage,487515,0,Pending,50,Multi Brand
+1003,2726,4/9/2026,Glass Damage,56548,0,Rejected,42,Multi Brand
+1004,1369,6/10/2026,Natural Disaster,93076,40771,Approved,7,Authorized
+1005,97,12/29/2025,Accidental Damage,121803,22445,Approved,40,Local Garage
+1006,941,11/22/2025,Accidental Damage,301679,0,Rejected,58,Authorized
+1007,2921,2/1/2026,Engine Damage,15153,0,Rejected,75,Local Garage
+1008,933,5/2/2026,Own Damage,420349,143055,Approved,55,Local Garage
+1009,2326,11/17/2025,Natural Disaster,140525,102654,Approved,52,Local Garage
+1010,1160,1/20/2026,Accidental Damage,277852,257440,Approved,85,Authorized
+1011,526,8/3/2025,Theft Fire Damage,289706,0,Pending,17,Multi Brand
+1012,79,11/19/2025,Theft Fire Damage,352229,265325,Approved,2,Cashless Network
+1013,1987,6/8/2026,Theft Fire Damage,143631,123109,Approved,80,Cashless Network
+1014,503,10/4/2025,Own Damage,292830,171653,Approved,76,Local Garage
+1015,2853,4/24/2026,Flood Damage,106803,0,Pending,32,Local Garage
+1016,3388,4/27/2026,Accidental Damage,280365,254504,Approved,85,Multi Brand
+1017,1056,11/10/2025,Theft Fire Damage,388095,0,Pending,87,Local Garage
+1018,3318,10/18/2025,Engine Damage,198406,0,Pending,34,Cashless Network
+1019,289,6/24/2026,Accidental Damage,378766,36544,Approved,25,Authorized
+1020,2541,10/12/2025,Total Loss,457467,0,Pending,53,Cashless Network
+1021,21,4/13/2026,Flood Damage,126710,39404,Approved,2,Multi Brand
+1022,399,6/21/2026,Own Damage,81945,27071,Approved,63,Local Garage
+1023,3065,7/21/2025,Accidental Damage,405929,405734,Approved,81,Authorized
+1024,235,8/27/2025,Glass Damage,326651,302504,Approved,26,Cashless Network
+1025,1777,8/6/2025,Engine Damage,462427,65833,Approved,33,Local Garage
+1026,3885,10/15/2025,Glass Damage,350466,0,Pending,35,Cashless Network
+1027,1090,9/14/2025,Glass Damage,420589,0,Pending,78,Cashless Network
+1028,783,11/11/2025,Natural Disaster,57018,0,Rejected,34,Local Garage
+1029,2011,1/20/2026,Glass Damage,232900,146371,Approved,19,Authorized
+1030,2610,2/25/2026,Glass Damage,276702,0,Rejected,42,Multi Brand
+1031,332,9/22/2025,Total Loss,421431,0,Pending,79,Local Garage
+1032,2428,2/20/2026,Engine Damage,394028,0,Rejected,52,Cashless Network
+1033,1671,5/1/2026,Engine Damage,426981,0,Rejected,82,Authorized
+1034,1392,5/23/2026,Flood Damage,268636,0,Pending,68,Multi Brand
+1035,564,3/30/2026,Flood Damage,294204,0,Pending,20,Local Garage
+1036,411,6/23/2026,Engine Damage,6257,5632,Approved,62,Authorized
+1037,478,4/19/2026,Natural Disaster,133534,30866,Approved,34,Multi Brand
+1038,2393,5/12/2026,Own Damage,395651,0,Rejected,33,Cashless Network
+1039,918,8/18/2025,Natural Disaster,48656,0,Rejected,31,Local Garage
+1040,684,4/7/2026,Accidental Damage,209161,146458,Approved,61,Local Garage
+1041,512,11/6/2025,Accidental Damage,186533,145836,Approved,19,Authorized
+1042,1789,9/4/2025,Own Damage,174667,96039,Approved,90,Cashless Network
+1043,1383,5/20/2026,Accidental Damage,338329,0,Rejected,26,Multi Brand
+1044,3482,8/16/2025,Total Loss,226583,0,Pending,73,Multi Brand
+1045,1075,2/22/2026,Flood Damage,303796,29820,Approved,69,Cashless Network
+1046,2217,8/24/2025,Theft Fire Damage,213471,0,Rejected,1,Local Garage
+1047,1351,4/10/2026,Accidental Damage,388755,0,Rejected,36,Multi Brand
+1048,884,11/14/2025,Glass Damage,22059,0,Rejected,61,Multi Brand
+1049,1380,7/16/2025,Natural Disaster,419923,0,Pending,43,Authorized
+1050,1204,2/9/2026,Natural Disaster,370821,0,Rejected,30,Cashless Network
+1051,2504,11/20/2025,Total Loss,365911,0,Pending,89,Multi Brand
+1052,1531,11/11/2025,Total Loss,424252,259401,Approved,15,Local Garage
+1053,2032,5/19/2026,Natural Disaster,67118,0,Rejected,80,Cashless Network
+1054,3857,4/23/2026,Natural Disaster,433978,426159,Approved,32,Authorized
+1055,3914,5/23/2026,Theft Fire Damage,450351,0,Pending,70,Cashless Network
+1056,2993,4/21/2026,Own Damage,289298,0,Rejected,83,Authorized
+1057,2729,1/2/2026,Glass Damage,360475,0,Pending,66,Multi Brand
+1058,2432,8/9/2025,Natural Disaster,313868,0,Pending,10,Multi Brand
+1059,3838,9/4/2025,Engine Damage,428484,0,Rejected,50,Multi Brand
+1060,1713,7/28/2025,Flood Damage,167403,9096,Approved,26,Local Garage
+1061,3883,1/2/2026,Accidental Damage,412083,0,Rejected,2,Multi Brand
+1062,2808,6/19/2026,Engine Damage,86312,0,Pending,66,Local Garage
+1063,1138,5/24/2026,Theft Fire Damage,385715,147565,Approved,28,Multi Brand
+1064,1790,7/20/2025,Natural Disaster,186596,0,Pending,20,Authorized
+1065,2843,11/17/2025,Engine Damage,260937,0,Pending,27,Local Garage
+1066,3338,2/5/2026,Theft Fire Damage,24532,13654,Approved,57,Cashless Network
+1067,351,7/28/2025,Total Loss,431876,0,Pending,72,Authorized
+1068,1578,2/12/2026,Engine Damage,388294,203808,Approved,85,Multi Brand
+1069,2847,11/16/2025,Flood Damage,423056,76331,Approved,70,Local Garage
+1070,224,2/6/2026,Accidental Damage,43535,0,Rejected,87,Authorized
+1071,2585,11/28/2025,Own Damage,257334,232281,Approved,53,Local Garage
+1072,493,5/24/2026,Engine Damage,297148,0,Rejected,40,Cashless Network
+1073,3480,7/16/2025,Total Loss,168556,8578,Approved,64,Local Garage
+1074,2874,4/2/2026,Flood Damage,175963,56850,Approved,36,Multi Brand
+1075,1483,3/21/2026,Own Damage,283560,0,Pending,42,Cashless Network
+1076,990,11/5/2025,Engine Damage,86502,0,Pending,18,Multi Brand
+1077,1325,2/12/2026,Flood Damage,49533,6243,Approved,11,Multi Brand
+1078,3227,7/14/2025,Total Loss,406554,0,Pending,46,Cashless Network
+1079,870,6/9/2026,Natural Disaster,284562,75931,Approved,33,Authorized
+1080,1244,7/22/2025,Glass Damage,95835,48499,Approved,44,Cashless Network
+1081,130,7/30/2025,Glass Damage,124627,0,Rejected,19,Cashless Network
+1082,3406,6/8/2026,Glass Damage,298544,138839,Approved,38,Local Garage
+1083,2001,9/30/2025,Glass Damage,395708,0,Rejected,78,Authorized
+1084,1119,11/22/2025,Glass Damage,447619,0,Rejected,41,Multi Brand
+1085,2384,6/12/2026,Engine Damage,282932,34933,Approved,76,Authorized
+1086,2350,8/9/2025,Natural Disaster,410087,0,Pending,53,Multi Brand
+1087,1781,2/27/2026,Total Loss,228759,84668,Approved,69,Authorized
+1088,3201,4/29/2026,Glass Damage,278209,0,Rejected,84,Cashless Network
+1089,1522,11/21/2025,Total Loss,96644,18874,Approved,39,Multi Brand
+1090,3025,8/24/2025,Own Damage,107132,0,Rejected,81,Cashless Network
+1091,958,7/18/2025,Own Damage,16715,0,Pending,31,Authorized
+1092,3018,11/21/2025,Engine Damage,5681,0,Rejected,39,Authorized
+1093,3065,2/18/2026,Glass Damage,348303,88114,Approved,77,Multi Brand
+1094,1881,2/16/2026,Natural Disaster,226135,14353,Approved,26,Authorized
+1095,40,1/6/2026,Accidental Damage,154101,56964,Approved,78,Local Garage
+1096,3042,11/4/2025,Own Damage,306875,0,Rejected,73,Local Garage
+1097,1053,11/6/2025,Flood Damage,54887,0,Rejected,49,Multi Brand
+1098,2602,10/22/2025,Engine Damage,170545,0,Pending,23,Local Garage
+1099,2942,11/19/2025,Own Damage,392761,116134,Approved,25,Local Garage
+1100,3904,4/2/2026,Own Damage,241365,0,Rejected,7,Local Garage
+1101,3118,10/19/2025,Natural Disaster,57201,32136,Approved,48,Authorized
+1102,2294,10/1/2025,Engine Damage,204119,0,Rejected,59,Cashless Network
+1103,1061,4/2/2026,Natural Disaster,469955,231823,Approved,21,Local Garage
+1104,1466,4/7/2026,Total Loss,481681,0,Pending,68,Local Garage
+1105,364,4/9/2026,Natural Disaster,234065,0,Pending,26,Authorized
+1106,938,3/31/2026,Theft Fire Damage,246857,0,Pending,21,Multi Brand
+1107,2515,1/17/2026,Flood Damage,84677,0,Rejected,20,Cashless Network
+1108,3693,7/14/2025,Accidental Damage,46687,0,Pending,65,Local Garage
+1109,2828,2/26/2026,Theft Fire Damage,246687,0,Rejected,80,Local Garage
+1110,376,3/28/2026,Own Damage,140676,0,Rejected,62,Multi Brand
+1111,1933,11/23/2025,Glass Damage,274515,0,Rejected,77,Multi Brand
+1112,471,3/24/2026,Natural Disaster,143827,0,Pending,56,Local Garage
+1113,2562,10/13/2025,Flood Damage,259364,0,Rejected,24,Multi Brand
+1114,2309,1/3/2026,Natural Disaster,166853,0,Pending,30,Local Garage
+1115,1320,8/18/2025,Glass Damage,84198,66137,Approved,79,Multi Brand
+1116,3097,10/12/2025,Flood Damage,180753,102569,Approved,63,Cashless Network
+1117,1004,8/27/2025,Total Loss,293201,279977,Approved,38,Local Garage
+1118,2878,3/24/2026,Accidental Damage,305780,141810,Approved,61,Multi Brand
+1119,922,10/24/2025,Total Loss,73092,0,Rejected,85,Local Garage
+1120,3408,1/29/2026,Flood Damage,82798,10725,Approved,12,Cashless Network
+1121,1638,4/10/2026,Own Damage,395009,0,Pending,81,Local Garage
+1122,2733,7/4/2025,Total Loss,351686,0,Pending,81,Authorized
+1123,2371,1/3/2026,Theft Fire Damage,362346,0,Pending,61,Authorized
+1124,169,4/22/2026,Glass Damage,354782,0,Rejected,15,Cashless Network
+1125,3107,11/23/2025,Own Damage,228769,168010,Approved,12,Authorized
+1126,2619,2/15/2026,Theft Fire Damage,135653,118503,Approved,34,Cashless Network
+1127,3730,10/23/2025,Theft Fire Damage,218252,0,Pending,75,Cashless Network
+1128,2145,4/5/2026,Natural Disaster,13744,0,Rejected,14,Multi Brand
+1129,1048,12/6/2025,Engine Damage,377187,0,Pending,29,Local Garage
+1130,1113,7/16/2025,Flood Damage,164591,86823,Approved,20,Local Garage
+1131,2068,3/23/2026,Flood Damage,296524,155080,Approved,53,Local Garage
+1132,2390,11/26/2025,Glass Damage,418441,0,Rejected,7,Cashless Network
+1133,3827,1/13/2026,Engine Damage,260805,0,Rejected,59,Local Garage
+1134,761,2/23/2026,Natural Disaster,31666,0,Rejected,73,Multi Brand
+1135,246,11/9/2025,Glass Damage,402682,0,Rejected,88,Multi Brand
+1136,1192,8/29/2025,Accidental Damage,431708,0,Pending,73,Cashless Network
+1137,2900,10/11/2025,Own Damage,326954,0,Rejected,28,Cashless Network
+1138,1520,2/9/2026,Glass Damage,340211,0,Rejected,12,Authorized
+1139,1274,4/29/2026,Glass Damage,201605,0,Pending,53,Local Garage
+1140,1425,3/3/2026,Flood Damage,413245,0,Rejected,43,Multi Brand
+1141,2537,12/29/2025,Theft Fire Damage,25451,0,Pending,50,Local Garage
+1142,3512,11/13/2025,Theft Fire Damage,443172,115065,Approved,10,Local Garage
+1143,1716,8/7/2025,Glass Damage,214499,0,Rejected,46,Cashless Network
+1144,3941,12/16/2025,Theft Fire Damage,452822,0,Pending,31,Multi Brand
+1145,1432,6/17/2026,Total Loss,442457,0,Pending,48,Authorized
+1146,2037,9/8/2025,Theft Fire Damage,18856,0,Pending,26,Cashless Network
+1147,3367,6/29/2025,Theft Fire Damage,324044,0,Pending,59,Authorized
+1148,3841,1/23/2026,Theft Fire Damage,322532,160851,Approved,20,Multi Brand
+1149,3929,2/21/2026,Natural Disaster,28215,0,Pending,54,Cashless Network
+1150,2361,11/27/2025,Accidental Damage,455968,0,Rejected,30,Authorized
+1151,1366,6/16/2026,Theft Fire Damage,393384,0,Pending,50,Multi Brand
+1152,3772,12/13/2025,Theft Fire Damage,206381,0,Rejected,15,Local Garage
+1153,2154,10/25/2025,Natural Disaster,253599,174352,Approved,62,Multi Brand
+1154,2178,7/10/2025,Engine Damage,321793,0,Rejected,77,Local Garage
+1155,2656,9/18/2025,Engine Damage,216829,0,Pending,76,Local Garage
+1156,1006,2/10/2026,Flood Damage,471282,0,Pending,20,Multi Brand
+1157,2914,7/5/2025,Total Loss,424375,0,Pending,9,Local Garage
+1158,3395,11/8/2025,Accidental Damage,211853,6296,Approved,56,Authorized
+1159,3556,11/9/2025,Glass Damage,94719,38247,Approved,2,Cashless Network
+1160,1091,3/1/2026,Natural Disaster,130402,0,Rejected,13,Multi Brand
+1161,2711,1/27/2026,Engine Damage,325992,155081,Approved,34,Multi Brand
+1162,3419,10/2/2025,Accidental Damage,292360,224526,Approved,72,Authorized
+1163,3665,9/19/2025,Engine Damage,51791,0,Pending,63,Multi Brand
+1164,1220,7/9/2025,Theft Fire Damage,187770,0,Rejected,12,Multi Brand
+1165,2405,2/15/2026,Natural Disaster,335379,0,Pending,21,Cashless Network
+1166,3131,2/16/2026,Own Damage,223462,0,Pending,88,Local Garage
+1167,774,8/26/2025,Own Damage,442658,337410,Approved,37,Local Garage
+1168,1819,12/15/2025,Flood Damage,42083,0,Rejected,2,Multi Brand
+1169,3699,3/26/2026,Accidental Damage,19801,0,Pending,13,Multi Brand
+1170,567,12/15/2025,Accidental Damage,356505,188607,Approved,30,Authorized
+1171,2653,10/3/2025,Engine Damage,104591,0,Pending,39,Multi Brand
+1172,1089,5/7/2026,Own Damage,382859,0,Pending,63,Multi Brand
+1173,1808,4/5/2026,Flood Damage,31225,0,Pending,78,Multi Brand
+1174,3704,4/22/2026,Total Loss,177326,0,Pending,53,Local Garage
+1175,2253,7/5/2025,Natural Disaster,26771,8486,Approved,15,Cashless Network
+1176,1938,5/1/2026,Own Damage,483275,0,Pending,66,Authorized
+1177,2230,4/16/2026,Natural Disaster,377846,215636,Approved,82,Local Garage
+1178,282,4/23/2026,Accidental Damage,365057,0,Pending,9,Multi Brand
+1179,358,5/23/2026,Total Loss,216395,0,Pending,74,Multi Brand
+1180,2022,7/28/2025,Theft Fire Damage,481386,0,Pending,3,Multi Brand
+1181,1607,3/24/2026,Total Loss,17556,0,Rejected,17,Authorized
+1182,2726,8/25/2025,Glass Damage,436877,10715,Approved,4,Cashless Network
+1183,3857,4/4/2026,Own Damage,295721,161875,Approved,38,Multi Brand
+1184,3438,9/29/2025,Own Damage,54872,0,Pending,78,Multi Brand
+1185,1843,9/14/2025,Glass Damage,56041,0,Rejected,55,Authorized
+1186,704,10/6/2025,Total Loss,193810,0,Rejected,64,Authorized
+1187,1310,11/29/2025,Own Damage,170067,0,Rejected,66,Local Garage
+1188,120,8/15/2025,Accidental Damage,63954,0,Pending,27,Authorized
+1189,3678,5/14/2026,Glass Damage,99928,0,Rejected,85,Authorized
+1190,2914,9/2/2025,Accidental Damage,175818,0,Rejected,1,Local Garage
+1191,2368,10/10/2025,Flood Damage,315096,0,Pending,8,Authorized
+1192,3248,9/23/2025,Engine Damage,397756,0,Rejected,70,Cashless Network
+1193,1399,9/25/2025,Glass Damage,53076,0,Pending,74,Authorized
+1194,2798,11/18/2025,Engine Damage,111247,0,Pending,20,Authorized
+1195,3660,6/23/2026,Total Loss,62394,36525,Approved,24,Multi Brand
+1196,1732,5/1/2026,Own Damage,356119,0,Pending,2,Multi Brand
+1197,952,1/11/2026,Natural Disaster,136519,0,Pending,28,Cashless Network
+1198,1328,1/12/2026,Glass Damage,56091,55901,Approved,21,Local Garage
+1199,2989,11/5/2025,Own Damage,80346,0,Rejected,20,Authorized
+1200,370,11/6/2025,Total Loss,406652,224690,Approved,42,Local Garage
+1201,716,2/16/2026,Engine Damage,449882,0,Rejected,68,Local Garage
+1202,1473,11/17/2025,Total Loss,227471,141771,Approved,85,Multi Brand
+1203,251,9/1/2025,Glass Damage,372645,0,Rejected,34,Multi Brand
+1204,2584,11/21/2025,Flood Damage,330721,0,Pending,16,Authorized
+1205,2730,12/24/2025,Total Loss,354224,0,Rejected,12,Multi Brand
+1206,954,10/5/2025,Accidental Damage,163356,0,Pending,70,Local Garage
+1207,2230,12/4/2025,Natural Disaster,19485,0,Pending,48,Multi Brand
+1208,3554,3/9/2026,Accidental Damage,492080,0,Rejected,19,Authorized
+1209,122,7/21/2025,Flood Damage,213286,137972,Approved,81,Authorized
+1210,638,1/21/2026,Engine Damage,441668,401647,Approved,56,Local Garage
+1211,365,1/8/2026,Natural Disaster,66511,41100,Approved,40,Authorized
+1212,3427,7/15/2025,Engine Damage,132909,42309,Approved,45,Cashless Network
+1213,1103,3/8/2026,Flood Damage,216885,150997,Approved,79,Local Garage
+1214,1772,5/28/2026,Engine Damage,371709,0,Rejected,81,Multi Brand
+1215,224,6/14/2026,Accidental Damage,283967,0,Pending,59,Local Garage
+1216,3809,2/23/2026,Accidental Damage,209252,93792,Approved,61,Authorized
+1217,3615,3/2/2026,Total Loss,351947,0,Pending,59,Local Garage
+1218,379,11/7/2025,Theft Fire Damage,449188,0,Rejected,43,Local Garage
+1219,3003,10/8/2025,Glass Damage,108222,0,Rejected,32,Local Garage
+1220,1925,5/18/2026,Accidental Damage,406076,0,Rejected,17,Authorized
+1221,1187,7/1/2025,Flood Damage,403136,0,Rejected,44,Local Garage
+1222,793,9/28/2025,Own Damage,38074,16500,Approved,44,Local Garage
+1223,664,1/28/2026,Own Damage,84916,0,Rejected,24,Local Garage
+1224,35,5/20/2026,Own Damage,416566,189877,Approved,55,Authorized
+1225,60,5/1/2026,Own Damage,441413,302195,Approved,36,Authorized
+1226,2778,4/2/2026,Glass Damage,483052,0,Pending,56,Cashless Network
+1227,3917,11/9/2025,Engine Damage,77364,0,Rejected,71,Cashless Network
+1228,1136,11/9/2025,Accidental Damage,80752,0,Pending,77,Local Garage
+1229,697,2/23/2026,Natural Disaster,200085,0,Rejected,25,Authorized
+1230,2808,6/30/2025,Accidental Damage,485475,429532,Approved,88,Cashless Network
+1231,1911,10/18/2025,Own Damage,425622,0,Rejected,90,Cashless Network
+1232,670,9/7/2025,Accidental Damage,460077,356307,Approved,66,Local Garage
+1233,574,4/22/2026,Own Damage,438921,437004,Approved,3,Multi Brand
+1234,1108,12/24/2025,Natural Disaster,123467,0,Pending,40,Multi Brand
+1235,1368,12/24/2025,Total Loss,460717,92762,Approved,88,Authorized
+1236,1751,7/9/2025,Theft Fire Damage,262201,0,Pending,17,Local Garage
+1237,566,7/21/2025,Total Loss,67823,0,Pending,28,Authorized
+1238,1826,9/28/2025,Total Loss,493124,0,Rejected,34,Cashless Network
+1239,648,6/20/2026,Flood Damage,339968,0,Pending,1,Multi Brand
+1240,301,12/7/2025,Engine Damage,309090,214617,Approved,58,Local Garage
+1241,2568,6/30/2025,Engine Damage,32294,8380,Approved,75,Cashless Network
+1242,1924,9/8/2025,Engine Damage,57679,55792,Approved,84,Multi Brand
+1243,2122,3/15/2026,Theft Fire Damage,48133,28172,Approved,86,Cashless Network
+1244,3412,9/1/2025,Accidental Damage,196226,0,Pending,65,Cashless Network
+1245,2090,10/5/2025,Total Loss,443482,0,Pending,57,Authorized
+1246,1380,3/26/2026,Total Loss,380051,0,Pending,90,Authorized
+1247,2523,3/14/2026,Own Damage,135216,0,Rejected,15,Multi Brand
+1248,2829,10/20/2025,Flood Damage,366765,360705,Approved,65,Authorized
+1249,2573,2/7/2026,Flood Damage,266040,0,Rejected,39,Cashless Network
+1250,2589,8/15/2025,Total Loss,411224,296752,Approved,48,Multi Brand
+1251,1484,5/4/2026,Natural Disaster,260266,0,Rejected,52,Authorized
+1252,2578,9/6/2025,Engine Damage,126467,110414,Approved,84,Authorized
+1253,423,9/2/2025,Accidental Damage,352323,0,Pending,59,Multi Brand
+1254,1901,6/4/2026,Own Damage,197690,0,Pending,54,Cashless Network
+1255,633,11/6/2025,Theft Fire Damage,16307,0,Rejected,55,Local Garage
+1256,3913,5/14/2026,Engine Damage,218343,0,Pending,37,Cashless Network
+1257,3219,8/8/2025,Theft Fire Damage,431489,0,Rejected,10,Cashless Network
+1258,1999,5/9/2026,Flood Damage,285408,182811,Approved,40,Local Garage
+1259,1939,11/16/2025,Theft Fire Damage,144678,81432,Approved,70,Cashless Network
+1260,2604,8/4/2025,Natural Disaster,240180,0,Pending,82,Multi Brand
+1261,1319,6/7/2026,Total Loss,12104,0,Pending,72,Local Garage
+1262,3799,4/10/2026,Accidental Damage,440652,0,Rejected,44,Multi Brand
+1263,560,5/22/2026,Accidental Damage,412606,0,Pending,4,Local Garage
+1264,497,10/5/2025,Natural Disaster,178422,0,Rejected,78,Multi Brand
+1265,789,3/3/2026,Accidental Damage,161614,0,Pending,43,Multi Brand
+1266,3234,6/11/2026,Own Damage,289606,0,Pending,54,Multi Brand
+1267,2677,7/15/2025,Natural Disaster,55632,0,Pending,71,Local Garage
+1268,1722,1/2/2026,Theft Fire Damage,368272,0,Rejected,3,Local Garage
+1269,530,2/7/2026,Glass Damage,355672,0,Rejected,64,Authorized
+1270,1631,11/16/2025,Natural Disaster,443614,45042,Approved,62,Cashless Network
+1271,3732,5/26/2026,Accidental Damage,56748,36405,Approved,67,Multi Brand
+1272,1442,7/20/2025,Flood Damage,217383,0,Rejected,51,Local Garage
+1273,1332,5/26/2026,Total Loss,459852,395357,Approved,26,Cashless Network
+1274,2312,6/27/2026,Accidental Damage,80673,0,Rejected,31,Local Garage
+1275,13,6/19/2026,Accidental Damage,476601,0,Rejected,29,Multi Brand
+1276,3740,1/23/2026,Natural Disaster,279100,0,Rejected,86,Authorized
+1277,1255,7/6/2025,Glass Damage,440541,0,Rejected,36,Authorized
+1278,2609,10/28/2025,Accidental Damage,151030,0,Rejected,83,Authorized
+1279,2013,9/10/2025,Theft Fire Damage,364013,39123,Approved,40,Authorized
+1280,1637,4/15/2026,Own Damage,375876,147060,Approved,13,Cashless Network
+1281,2067,8/25/2025,Glass Damage,486049,0,Pending,10,Local Garage
+1282,3806,2/3/2026,Theft Fire Damage,370565,141355,Approved,11,Cashless Network
+1283,2611,11/26/2025,Flood Damage,388298,0,Rejected,46,Local Garage
+1284,1434,4/4/2026,Accidental Damage,34297,33558,Approved,38,Local Garage
+1285,1883,5/31/2026,Engine Damage,272923,0,Rejected,86,Local Garage
+1286,2963,4/25/2026,Glass Damage,180121,0,Rejected,75,Cashless Network
+1287,48,2/19/2026,Engine Damage,34390,0,Pending,24,Authorized
+1288,3016,10/20/2025,Own Damage,464986,0,Rejected,40,Cashless Network
+1289,3753,9/5/2025,Glass Damage,411386,0,Pending,10,Cashless Network
+1290,1583,6/11/2026,Flood Damage,176984,157973,Approved,19,Authorized
+1291,440,7/16/2025,Glass Damage,203757,125452,Approved,84,Cashless Network
+1292,3778,12/17/2025,Engine Damage,493636,0,Rejected,74,Multi Brand
+1293,2584,11/30/2025,Engine Damage,362449,339946,Approved,32,Local Garage
+1294,1064,2/5/2026,Flood Damage,171319,135203,Approved,79,Authorized
+1295,410,7/26/2025,Total Loss,58257,0,Pending,73,Cashless Network
+1296,836,6/5/2026,Total Loss,438484,0,Rejected,34,Multi Brand
+1297,2791,5/2/2026,Engine Damage,482883,69477,Approved,83,Cashless Network
+1298,3679,3/31/2026,Total Loss,15634,0,Pending,22,Multi Brand
+1299,2699,9/10/2025,Total Loss,60772,52080,Approved,8,Local Garage
+1300,3849,3/9/2026,Accidental Damage,219686,0,Rejected,42,Authorized
+1301,16,7/20/2025,Own Damage,337544,0,Rejected,84,Multi Brand
+1302,926,9/25/2025,Natural Disaster,494153,0,Rejected,20,Cashless Network
+1303,2147,4/20/2026,Accidental Damage,325329,159661,Approved,10,Local Garage
+1304,1543,4/14/2026,Total Loss,472281,412874,Approved,69,Multi Brand
+1305,2900,12/31/2025,Engine Damage,421844,0,Pending,3,Multi Brand
+1306,238,10/16/2025,Flood Damage,76387,0,Rejected,59,Authorized
+1307,1552,2/23/2026,Engine Damage,225724,202490,Approved,61,Local Garage
+1308,1699,10/25/2025,Accidental Damage,6796,5605,Approved,31,Cashless Network
+1309,1059,6/13/2026,Accidental Damage,65214,31000,Approved,33,Multi Brand
+1310,357,3/15/2026,Flood Damage,125230,0,Rejected,73,Authorized
+1311,513,11/4/2025,Engine Damage,345316,0,Pending,47,Cashless Network
+1312,3892,12/5/2025,Theft Fire Damage,404982,0,Pending,35,Local Garage
+1313,1891,8/1/2025,Accidental Damage,434340,370034,Approved,83,Authorized
+1314,1546,11/5/2025,Total Loss,369463,314537,Approved,50,Authorized
+1315,515,3/22/2026,Flood Damage,91591,0,Pending,74,Multi Brand
+1316,2634,9/8/2025,Flood Damage,147634,0,Rejected,5,Local Garage
+1317,1627,10/30/2025,Theft Fire Damage,407702,280909,Approved,79,Authorized
+1318,2907,1/18/2026,Natural Disaster,468807,0,Rejected,80,Multi Brand
+1319,3111,7/27/2025,Engine Damage,377435,0,Rejected,27,Local Garage
+1320,1071,4/9/2026,Engine Damage,297182,148151,Approved,78,Multi Brand
+1321,412,9/11/2025,Total Loss,285597,79154,Approved,76,Authorized
+1322,764,8/15/2025,Own Damage,51419,0,Rejected,75,Authorized
+1323,2809,10/3/2025,Engine Damage,296706,0,Pending,38,Multi Brand
+1324,2306,12/30/2025,Engine Damage,424320,0,Rejected,15,Cashless Network
+1325,165,12/29/2025,Accidental Damage,377246,0,Pending,28,Cashless Network
+1326,2725,12/26/2025,Engine Damage,264109,0,Rejected,81,Cashless Network
+1327,2661,6/30/2025,Flood Damage,379710,0,Pending,2,Local Garage
+1328,720,4/12/2026,Accidental Damage,30872,0,Rejected,50,Cashless Network
+1329,2017,8/22/2025,Flood Damage,438886,353335,Approved,59,Authorized
+1330,2089,3/20/2026,Natural Disaster,194558,60766,Approved,11,Cashless Network
+1331,3853,1/3/2026,Theft Fire Damage,239511,32198,Approved,73,Cashless Network
+1332,227,12/29/2025,Engine Damage,64902,0,Pending,49,Local Garage
+1333,2733,12/29/2025,Theft Fire Damage,443940,235195,Approved,18,Authorized
+1334,3027,12/13/2025,Flood Damage,12380,5492,Approved,47,Local Garage
+1335,820,11/2/2025,Glass Damage,252718,0,Rejected,87,Local Garage
+1336,2590,7/2/2025,Glass Damage,449117,0,Pending,29,Authorized
+1337,1615,8/28/2025,Total Loss,473267,0,Pending,74,Multi Brand
+1338,2686,10/12/2025,Flood Damage,32033,21687,Approved,61,Local Garage
+1339,1277,3/14/2026,Natural Disaster,218402,0,Pending,9,Local Garage
+1340,533,4/26/2026,Accidental Damage,474698,388248,Approved,85,Local Garage
+1341,3756,2/6/2026,Flood Damage,95399,0,Rejected,29,Multi Brand
+1342,602,3/16/2026,Flood Damage,325343,23503,Approved,68,Authorized
+1343,3347,6/26/2026,Accidental Damage,26208,10035,Approved,59,Cashless Network
+1344,924,7/18/2025,Own Damage,244863,0,Rejected,85,Authorized
+1345,3701,5/30/2026,Flood Damage,18304,6278,Approved,30,Cashless Network
+1346,1793,9/6/2025,Total Loss,99773,0,Rejected,16,Local Garage
+1347,3776,12/21/2025,Glass Damage,224412,0,Rejected,29,Authorized
+1348,2788,4/11/2026,Glass Damage,310743,0,Rejected,83,Authorized
+1349,3253,12/15/2025,Accidental Damage,145735,80375,Approved,83,Authorized
+1350,3688,6/18/2026,Own Damage,5519,5001,Approved,23,Authorized
+1351,3151,10/29/2025,Glass Damage,245755,0,Pending,12,Multi Brand
+1352,586,2/12/2026,Flood Damage,256543,0,Rejected,39,Authorized
+1353,85,9/24/2025,Flood Damage,142607,0,Pending,72,Authorized
+1354,293,11/28/2025,Total Loss,80012,0,Pending,71,Local Garage
+1355,1868,1/31/2026,Accidental Damage,408311,0,Rejected,5,Cashless Network
+1356,2845,4/29/2026,Theft Fire Damage,311384,0,Pending,26,Authorized
+1357,2915,3/20/2026,Flood Damage,120048,0,Pending,52,Local Garage
+1358,2722,8/18/2025,Theft Fire Damage,287626,0,Rejected,31,Local Garage
+1359,254,2/27/2026,Natural Disaster,465364,52312,Approved,81,Cashless Network
+1360,2365,11/10/2025,Own Damage,221839,0,Pending,10,Multi Brand
+1361,1667,12/26/2025,Accidental Damage,286781,0,Rejected,65,Multi Brand
+1362,360,9/8/2025,Engine Damage,65021,0,Rejected,37,Cashless Network
+1363,56,1/20/2026,Accidental Damage,447392,0,Pending,29,Local Garage
+1364,2792,11/4/2025,Theft Fire Damage,271754,102410,Approved,85,Multi Brand
+1365,276,4/13/2026,Total Loss,469446,0,Pending,12,Authorized
+1366,1006,11/28/2025,Theft Fire Damage,13972,0,Pending,8,Cashless Network
+1367,2394,9/27/2025,Flood Damage,310700,0,Rejected,38,Cashless Network
+1368,750,2/12/2026,Flood Damage,389758,0,Pending,63,Local Garage
+1369,3721,10/10/2025,Glass Damage,310171,0,Rejected,80,Cashless Network
+1370,1875,4/16/2026,Engine Damage,223359,0,Rejected,65,Cashless Network
+1371,1667,10/25/2025,Own Damage,110995,0,Pending,70,Cashless Network
+1372,2690,12/22/2025,Own Damage,379660,0,Rejected,66,Local Garage
+1373,1126,9/17/2025,Accidental Damage,190283,0,Rejected,13,Cashless Network
+1374,3408,8/23/2025,Theft Fire Damage,300581,0,Rejected,17,Local Garage
+1375,3237,1/21/2026,Total Loss,276364,34235,Approved,86,Authorized
+1376,982,6/16/2026,Natural Disaster,219889,67910,Approved,46,Authorized
+1377,3835,7/31/2025,Theft Fire Damage,19494,0,Rejected,36,Local Garage
+1378,608,3/18/2026,Flood Damage,409715,0,Rejected,78,Cashless Network
+1379,2769,3/9/2026,Engine Damage,477567,60380,Approved,64,Local Garage
+1380,1940,12/14/2025,Theft Fire Damage,440136,0,Pending,75,Cashless Network
+1381,2125,4/21/2026,Total Loss,345144,279761,Approved,76,Authorized
+1382,1585,11/27/2025,Engine Damage,249456,186099,Approved,18,Multi Brand
+1383,521,5/18/2026,Natural Disaster,39363,34660,Approved,23,Multi Brand
+1384,874,11/12/2025,Total Loss,381505,205207,Approved,44,Local Garage
+1385,1467,5/15/2026,Total Loss,56210,0,Rejected,76,Multi Brand
+1386,2141,4/23/2026,Total Loss,393166,0,Rejected,58,Cashless Network
+1387,2391,12/1/2025,Flood Damage,429787,0,Pending,82,Local Garage
+1388,3530,2/25/2026,Theft Fire Damage,45670,0,Rejected,54,Cashless Network
+1389,2503,3/25/2026,Own Damage,346753,0,Pending,16,Multi Brand
+1390,270,3/23/2026,Flood Damage,36231,0,Pending,55,Authorized
+1391,1199,1/2/2026,Theft Fire Damage,114720,0,Rejected,50,Authorized
+1392,3735,8/4/2025,Theft Fire Damage,33862,0,Pending,41,Local Garage
+1393,1091,7/20/2025,Natural Disaster,223233,0,Pending,80,Authorized
+1394,477,7/15/2025,Theft Fire Damage,17438,0,Pending,38,Authorized
+1395,1935,10/4/2025,Flood Damage,8063,0,Pending,12,Local Garage
+1396,1993,4/11/2026,Own Damage,397881,0,Rejected,12,Cashless Network
+1397,107,8/24/2025,Engine Damage,224836,0,Rejected,40,Cashless Network
+1398,1664,9/10/2025,Accidental Damage,106113,62367,Approved,3,Multi Brand
+1399,376,6/30/2025,Flood Damage,427868,0,Rejected,85,Cashless Network
+1400,3461,3/9/2026,Flood Damage,302869,236934,Approved,19,Authorized
+1401,2444,6/11/2026,Natural Disaster,365362,0,Pending,41,Authorized
+1402,1624,11/23/2025,Glass Damage,215468,0,Rejected,12,Cashless Network
+1403,564,11/27/2025,Natural Disaster,51444,0,Rejected,26,Authorized
+1404,978,9/3/2025,Own Damage,195131,0,Rejected,17,Authorized
+1405,1146,2/28/2026,Own Damage,439636,0,Pending,46,Authorized
+1406,2854,12/4/2025,Flood Damage,184838,0,Pending,64,Multi Brand
+1407,2960,3/25/2026,Theft Fire Damage,392264,322834,Approved,46,Authorized
+1408,991,10/4/2025,Glass Damage,242979,0,Pending,30,Cashless Network
+1409,3133,12/4/2025,Accidental Damage,131506,68609,Approved,12,Local Garage
+1410,1312,5/5/2026,Engine Damage,479362,399231,Approved,56,Multi Brand
+1411,3398,8/1/2025,Theft Fire Damage,53717,0,Pending,67,Cashless Network
+1412,152,12/12/2025,Flood Damage,399372,0,Pending,3,Cashless Network
+1413,35,3/3/2026,Total Loss,334570,0,Rejected,61,Cashless Network
+1414,3388,11/1/2025,Flood Damage,450091,0,Rejected,9,Authorized
+1415,774,10/4/2025,Total Loss,254376,0,Pending,12,Authorized
+1416,310,7/26/2025,Flood Damage,406969,88051,Approved,81,Local Garage
+1417,3027,10/31/2025,Flood Damage,10583,0,Pending,82,Cashless Network
+1418,415,12/2/2025,Glass Damage,390574,0,Rejected,60,Local Garage
+1419,2512,1/16/2026,Total Loss,246266,0,Rejected,73,Local Garage
+1420,2055,1/3/2026,Theft Fire Damage,149198,0,Rejected,7,Authorized
+1421,2451,5/7/2026,Glass Damage,404261,0,Pending,29,Multi Brand
+1422,1380,10/4/2025,Flood Damage,402579,0,Rejected,30,Cashless Network
+1423,328,10/15/2025,Theft Fire Damage,126977,0,Rejected,76,Local Garage
+1424,2024,3/15/2026,Engine Damage,64976,45379,Approved,10,Multi Brand
+1425,2109,12/25/2025,Theft Fire Damage,216680,0,Rejected,56,Multi Brand
+1426,3011,10/14/2025,Engine Damage,68864,0,Pending,31,Authorized
+1427,3803,4/11/2026,Glass Damage,182964,0,Rejected,87,Local Garage
+1428,1426,4/13/2026,Engine Damage,364900,0,Pending,18,Cashless Network
+1429,818,1/2/2026,Engine Damage,312927,176540,Approved,30,Multi Brand
+1430,2838,9/2/2025,Own Damage,9713,6790,Approved,36,Multi Brand
+1431,1972,1/7/2026,Theft Fire Damage,185395,0,Rejected,55,Authorized
+1432,2416,3/13/2026,Total Loss,472937,397030,Approved,59,Multi Brand
+1433,2654,3/13/2026,Accidental Damage,62848,51899,Approved,13,Multi Brand
+1434,944,9/19/2025,Theft Fire Damage,462380,38729,Approved,58,Authorized
+1435,1094,12/30/2025,Accidental Damage,86140,30992,Approved,59,Cashless Network
+1436,257,10/20/2025,Theft Fire Damage,35009,0,Rejected,62,Multi Brand
+1437,1949,8/9/2025,Natural Disaster,66849,0,Rejected,11,Authorized
+1438,3722,8/2/2025,Accidental Damage,393597,0,Rejected,81,Multi Brand
+1439,1654,6/19/2026,Natural Disaster,180152,0,Pending,27,Multi Brand
+1440,771,4/4/2026,Engine Damage,479303,425794,Approved,22,Cashless Network
+1441,2297,6/26/2026,Engine Damage,91618,45070,Approved,21,Cashless Network
+1442,1002,2/13/2026,Total Loss,69908,0,Pending,42,Cashless Network
+1443,2590,8/26/2025,Own Damage,446435,0,Pending,66,Authorized
+1444,3183,1/12/2026,Natural Disaster,492607,11841,Approved,19,Cashless Network
+1445,3013,9/17/2025,Engine Damage,483406,101676,Approved,39,Authorized
+1446,2302,2/16/2026,Total Loss,468767,0,Pending,46,Local Garage
+1447,2794,3/16/2026,Accidental Damage,8155,5693,Approved,40,Authorized
+1448,63,11/6/2025,Engine Damage,87695,0,Rejected,2,Local Garage
+1449,3386,5/10/2026,Total Loss,444113,0,Rejected,43,Cashless Network
+1450,1471,12/28/2025,Accidental Damage,155161,0,Pending,82,Cashless Network
+1451,3476,7/22/2025,Accidental Damage,443054,0,Pending,44,Multi Brand
+1452,294,10/22/2025,Total Loss,443398,0,Pending,84,Authorized
+1453,2630,6/18/2026,Flood Damage,212903,59167,Approved,35,Authorized
+1454,2246,9/15/2025,Glass Damage,413895,0,Rejected,36,Multi Brand
+1455,3004,1/24/2026,Theft Fire Damage,238360,0,Pending,83,Local Garage
+1456,1091,10/17/2025,Own Damage,491852,0,Rejected,81,Local Garage
+1457,2691,4/25/2026,Theft Fire Damage,458339,0,Pending,35,Authorized
+1458,35,7/21/2025,Natural Disaster,441629,0,Pending,66,Local Garage
+1459,2341,3/12/2026,Accidental Damage,329750,0,Rejected,49,Authorized
+1460,2511,7/26/2025,Glass Damage,271332,0,Rejected,36,Authorized
+1461,2686,5/6/2026,Theft Fire Damage,58183,0,Rejected,60,Multi Brand
+1462,338,1/12/2026,Flood Damage,215386,0,Pending,31,Authorized
+1463,2228,5/16/2026,Theft Fire Damage,126562,24210,Approved,32,Authorized
+1464,2201,6/1/2026,Theft Fire Damage,113029,60925,Approved,28,Local Garage
+1465,2117,5/4/2026,Flood Damage,156036,0,Pending,3,Cashless Network
+1466,3280,6/28/2025,Natural Disaster,70349,0,Rejected,17,Cashless Network
+1467,3872,10/25/2025,Theft Fire Damage,185545,72519,Approved,62,Cashless Network
+1468,1663,9/11/2025,Engine Damage,116258,0,Rejected,88,Multi Brand
+1469,2808,1/2/2026,Glass Damage,215731,0,Rejected,52,Local Garage
+1470,3288,6/18/2026,Glass Damage,454588,0,Pending,25,Cashless Network
+1471,3204,12/23/2025,Total Loss,182759,176120,Approved,34,Authorized
+1472,2639,1/27/2026,Flood Damage,153739,0,Pending,60,Cashless Network
+1473,3952,2/22/2026,Theft Fire Damage,441176,0,Rejected,62,Multi Brand
+1474,2320,1/28/2026,Theft Fire Damage,411664,170845,Approved,30,Local Garage
+1475,1374,5/14/2026,Natural Disaster,423008,0,Pending,67,Local Garage
+1476,2148,7/25/2025,Engine Damage,101893,0,Pending,53,Cashless Network
+1477,246,3/21/2026,Engine Damage,440775,0,Rejected,65,Authorized
+1478,46,1/28/2026,Glass Damage,259046,0,Rejected,37,Authorized
+1479,1404,6/13/2026,Theft Fire Damage,143221,46420,Approved,9,Multi Brand
+1480,839,12/25/2025,Accidental Damage,140445,0,Rejected,3,Local Garage
+1481,298,1/19/2026,Own Damage,441966,0,Pending,43,Authorized
+1482,81,4/8/2026,Own Damage,10779,0,Pending,22,Multi Brand
+1483,3189,6/16/2026,Flood Damage,165612,0,Rejected,63,Authorized
+1484,3101,7/1/2025,Flood Damage,326103,0,Pending,85,Multi Brand
+1485,2528,6/21/2026,Accidental Damage,392602,0,Pending,7,Local Garage
+1486,613,12/24/2025,Accidental Damage,332015,219788,Approved,72,Local Garage
+1487,497,6/7/2026,Accidental Damage,153216,0,Rejected,72,Multi Brand
+1488,1163,1/29/2026,Flood Damage,186626,0,Rejected,73,Local Garage
+1489,221,3/3/2026,Accidental Damage,451966,332303,Approved,5,Local Garage
+1490,1006,8/20/2025,Total Loss,285711,0,Pending,26,Cashless Network
+1491,351,1/29/2026,Theft Fire Damage,124481,0,Pending,80,Authorized
+1492,1240,8/19/2025,Glass Damage,329273,0,Pending,74,Local Garage
+1493,1103,2/4/2026,Flood Damage,15069,0,Rejected,14,Authorized
+1494,339,3/1/2026,Total Loss,288165,0,Rejected,55,Authorized
+1495,2959,10/5/2025,Accidental Damage,220037,0,Pending,16,Cashless Network
+1496,2148,1/13/2026,Accidental Damage,101325,0,Pending,48,Authorized
+1497,3357,3/2/2026,Theft Fire Damage,239682,0,Rejected,59,Multi Brand
+1498,431,12/2/2025,Total Loss,129932,125628,Approved,37,Local Garage
+1499,1189,5/6/2026,Theft Fire Damage,393561,0,Rejected,10,Cashless Network
+1500,1235,7/3/2025,Own Damage,355266,0,Rejected,89,Local Garage
+1501,829,3/26/2026,Engine Damage,426047,0,Pending,17,Cashless Network
+1502,3935,7/6/2025,Accidental Damage,437199,0,Rejected,89,Multi Brand
+1503,2867,10/24/2025,Natural Disaster,49759,22991,Approved,6,Authorized
+1504,975,3/17/2026,Engine Damage,442083,54928,Approved,37,Cashless Network
+1505,614,2/13/2026,Glass Damage,439728,144962,Approved,67,Multi Brand
+1506,36,11/23/2025,Accidental Damage,265810,0,Pending,59,Local Garage
+1507,46,1/7/2026,Own Damage,41001,0,Pending,73,Authorized
+1508,1927,5/15/2026,Glass Damage,408231,106369,Approved,70,Multi Brand
+1509,3625,2/24/2026,Accidental Damage,468261,0,Pending,86,Authorized
+1510,890,10/9/2025,Glass Damage,460805,268140,Approved,69,Authorized
+1511,3570,11/28/2025,Engine Damage,19893,0,Rejected,31,Authorized
+1512,1847,2/23/2026,Engine Damage,339879,33350,Approved,7,Local Garage
+1513,2606,4/7/2026,Total Loss,12411,0,Rejected,25,Authorized
+1514,1411,7/24/2025,Total Loss,203642,0,Rejected,15,Authorized
+1515,2457,8/13/2025,Total Loss,53311,0,Rejected,31,Local Garage
+1516,1898,8/20/2025,Own Damage,162287,0,Pending,19,Multi Brand
+1517,1752,11/26/2025,Accidental Damage,37788,0,Pending,40,Local Garage
+1518,1991,5/27/2026,Natural Disaster,422170,0,Pending,9,Local Garage
+1519,1698,6/17/2026,Total Loss,203852,95924,Approved,84,Authorized
+1520,101,5/20/2026,Own Damage,412490,100470,Approved,66,Local Garage
+1521,1439,1/26/2026,Flood Damage,207372,0,Pending,63,Local Garage
+1522,3751,12/28/2025,Glass Damage,484869,0,Pending,31,Cashless Network
+1523,17,8/9/2025,Flood Damage,422554,169449,Approved,75,Local Garage
+1524,518,9/4/2025,Glass Damage,429826,21555,Approved,30,Local Garage
+1525,3712,6/18/2026,Own Damage,145158,0,Pending,39,Local Garage
+1526,3435,12/8/2025,Own Damage,265981,0,Rejected,15,Cashless Network
+1527,246,6/16/2026,Theft Fire Damage,426897,0,Pending,54,Multi Brand
+1528,1508,6/9/2026,Theft Fire Damage,396377,0,Rejected,79,Cashless Network
+1529,755,11/16/2025,Flood Damage,345591,0,Pending,32,Multi Brand
+1530,3098,8/20/2025,Glass Damage,241797,0,Pending,54,Local Garage
+1531,1625,1/19/2026,Glass Damage,110649,0,Pending,63,Authorized
+1532,3906,3/23/2026,Glass Damage,87959,60991,Approved,51,Authorized
+1533,37,8/27/2025,Flood Damage,182811,164143,Approved,78,Local Garage
+1534,2621,11/11/2025,Glass Damage,30634,0,Rejected,75,Authorized
+1535,3846,9/23/2025,Theft Fire Damage,496989,110464,Approved,65,Authorized
+1536,1913,7/26/2025,Total Loss,60997,5495,Approved,4,Local Garage
+1537,3097,11/19/2025,Theft Fire Damage,62910,33237,Approved,83,Authorized
+1538,3215,5/1/2026,Natural Disaster,29900,0,Pending,56,Authorized
+1539,5,4/14/2026,Total Loss,333562,264725,Approved,73,Authorized
+1540,2219,12/21/2025,Natural Disaster,306366,277303,Approved,44,Authorized
+1541,2027,5/20/2026,Flood Damage,421388,0,Pending,29,Authorized
+1542,3719,2/22/2026,Flood Damage,148079,137479,Approved,19,Authorized
+1543,2843,2/24/2026,Theft Fire Damage,372701,296976,Approved,85,Authorized
+1544,2004,6/12/2026,Glass Damage,213193,0,Pending,78,Authorized
+1545,1656,7/20/2025,Own Damage,11900,7181,Approved,80,Local Garage
+1546,1269,4/29/2026,Engine Damage,212515,0,Pending,15,Local Garage
+1547,2052,7/26/2025,Engine Damage,346925,45996,Approved,34,Cashless Network
+1548,238,9/5/2025,Natural Disaster,323548,0,Rejected,69,Local Garage
+1549,1788,3/5/2026,Accidental Damage,61070,0,Rejected,19,Authorized
+1550,2666,4/11/2026,Glass Damage,340515,0,Pending,12,Authorized
+1551,362,12/18/2025,Natural Disaster,154121,0,Pending,29,Local Garage
+1552,55,3/1/2026,Engine Damage,228010,21695,Approved,69,Multi Brand
+1553,951,5/1/2026,Accidental Damage,72680,0,Pending,31,Local Garage
+1554,1699,10/15/2025,Own Damage,151515,133328,Approved,71,Multi Brand
+1555,1631,1/24/2026,Total Loss,283381,12492,Approved,49,Cashless Network
+1556,3238,6/16/2026,Total Loss,327268,0,Rejected,39,Multi Brand
+1557,7,7/14/2025,Own Damage,97980,18922,Approved,56,Multi Brand
+1558,336,8/30/2025,Flood Damage,201877,0,Rejected,44,Local Garage
+1559,3738,1/28/2026,Own Damage,401406,0,Pending,82,Cashless Network
+1560,2623,3/16/2026,Theft Fire Damage,51125,0,Pending,14,Authorized
+1561,1912,2/27/2026,Engine Damage,187059,116533,Approved,9,Cashless Network
+1562,484,10/8/2025,Own Damage,116295,0,Rejected,84,Cashless Network
+1563,2983,7/14/2025,Own Damage,470706,0,Pending,23,Cashless Network
+1564,3723,2/20/2026,Accidental Damage,388669,111042,Approved,13,Authorized
+1565,3686,5/17/2026,Flood Damage,94331,57389,Approved,54,Authorized
+1566,1043,1/13/2026,Natural Disaster,220825,33928,Approved,80,Cashless Network
+1567,3367,3/30/2026,Engine Damage,439405,0,Pending,7,Authorized
+1568,3533,12/4/2025,Flood Damage,386727,0,Rejected,16,Cashless Network
+1569,3839,3/20/2026,Own Damage,144085,0,Pending,3,Multi Brand
+1570,472,8/3/2025,Engine Damage,27117,16107,Approved,29,Local Garage
+1571,988,4/13/2026,Engine Damage,148479,41397,Approved,7,Local Garage
+1572,1763,8/22/2025,Own Damage,363340,0,Rejected,42,Cashless Network
+1573,1870,1/14/2026,Own Damage,339847,0,Pending,7,Authorized
+1574,1027,2/4/2026,Flood Damage,145665,0,Rejected,47,Local Garage
+1575,277,4/22/2026,Total Loss,350527,88943,Approved,25,Authorized
+1576,2612,9/28/2025,Total Loss,353519,0,Rejected,59,Multi Brand
+1577,1851,11/17/2025,Natural Disaster,213879,0,Pending,90,Cashless Network
+1578,3044,2/14/2026,Theft Fire Damage,162661,0,Rejected,32,Local Garage
+1579,1784,1/24/2026,Accidental Damage,109872,0,Rejected,16,Authorized
+1580,580,1/19/2026,Natural Disaster,351347,0,Rejected,27,Authorized
+1581,10,7/10/2025,Accidental Damage,225651,0,Pending,77,Local Garage
+1582,2654,1/7/2026,Glass Damage,130419,0,Rejected,53,Multi Brand
+1583,2346,8/22/2025,Accidental Damage,106766,28838,Approved,77,Cashless Network
+1584,3999,9/17/2025,Engine Damage,430218,180144,Approved,11,Multi Brand
+1585,530,2/1/2026,Glass Damage,195339,0,Rejected,16,Local Garage
+1586,3681,9/29/2025,Own Damage,175350,0,Rejected,35,Authorized
+1587,3504,5/31/2026,Engine Damage,58827,0,Pending,88,Authorized
+1588,3634,3/1/2026,Engine Damage,441979,0,Pending,61,Multi Brand
+1589,1762,2/4/2026,Accidental Damage,110634,110424,Approved,68,Local Garage
+1590,3892,12/17/2025,Natural Disaster,324985,0,Rejected,10,Multi Brand
+1591,1228,3/30/2026,Glass Damage,305543,161437,Approved,73,Multi Brand
+1592,3750,11/8/2025,Total Loss,320677,0,Rejected,23,Multi Brand
+1593,2427,10/12/2025,Theft Fire Damage,12080,9900,Approved,30,Multi Brand
+1594,3562,5/11/2026,Theft Fire Damage,306772,159637,Approved,10,Multi Brand
+1595,171,2/11/2026,Total Loss,406674,0,Pending,3,Local Garage
+1596,424,7/3/2025,Natural Disaster,77733,0,Rejected,26,Local Garage
+1597,3561,2/19/2026,Own Damage,223996,0,Pending,2,Local Garage
+1598,908,6/12/2026,Theft Fire Damage,141086,59876,Approved,14,Authorized
+1599,806,9/15/2025,Own Damage,187803,0,Pending,6,Cashless Network
+1600,2303,1/28/2026,Own Damage,302546,81850,Approved,45,Cashless Network
+1601,1248,10/5/2025,Engine Damage,164726,0,Rejected,35,Cashless Network
+1602,1443,10/16/2025,Own Damage,404269,0,Rejected,55,Local Garage
+1603,2357,7/20/2025,Natural Disaster,40986,0,Pending,9,Authorized
+1604,2319,6/16/2026,Total Loss,465790,385395,Approved,81,Authorized
+1605,684,7/18/2025,Engine Damage,171479,0,Pending,90,Cashless Network
+1606,1943,8/15/2025,Own Damage,34461,0,Rejected,84,Cashless Network
+1607,2482,11/3/2025,Accidental Damage,125514,0,Pending,77,Local Garage
+1608,2948,7/17/2025,Theft Fire Damage,392067,0,Pending,43,Cashless Network
+1609,1520,10/27/2025,Natural Disaster,471372,0,Rejected,68,Authorized
+1610,2600,3/2/2026,Natural Disaster,383527,0,Pending,46,Authorized
+1611,2997,12/23/2025,Natural Disaster,38217,0,Pending,72,Cashless Network
+1612,3231,1/9/2026,Theft Fire Damage,223996,9508,Approved,61,Authorized
+1613,2643,2/14/2026,Natural Disaster,261494,0,Pending,68,Cashless Network
+1614,3037,5/8/2026,Glass Damage,352499,0,Pending,60,Authorized
+1615,735,8/26/2025,Glass Damage,49502,0,Rejected,85,Cashless Network
+1616,828,10/22/2025,Theft Fire Damage,196433,0,Rejected,33,Authorized
+1617,2018,9/4/2025,Theft Fire Damage,106876,0,Rejected,66,Cashless Network
+1618,479,5/23/2026,Natural Disaster,460734,0,Rejected,14,Cashless Network
+1619,3661,8/22/2025,Theft Fire Damage,150390,0,Rejected,83,Local Garage
+1620,1068,9/11/2025,Engine Damage,312117,0,Rejected,84,Multi Brand
+1621,472,2/19/2026,Natural Disaster,51136,0,Pending,38,Local Garage
+1622,435,1/6/2026,Engine Damage,335247,251699,Approved,63,Authorized
+1623,3286,2/5/2026,Engine Damage,262278,0,Pending,63,Cashless Network
+1624,1842,9/27/2025,Natural Disaster,468817,0,Rejected,65,Local Garage
+1625,3923,6/12/2026,Total Loss,95289,23333,Approved,35,Multi Brand
+1626,1136,4/22/2026,Engine Damage,96635,45668,Approved,19,Local Garage
+1627,3845,7/3/2025,Natural Disaster,264921,0,Rejected,57,Cashless Network
+1628,649,10/22/2025,Own Damage,267872,0,Pending,77,Authorized
+1629,3305,4/21/2026,Own Damage,30821,0,Pending,56,Multi Brand
+1630,672,7/21/2025,Natural Disaster,481526,0,Pending,89,Multi Brand
+1631,2380,11/1/2025,Theft Fire Damage,314282,237201,Approved,88,Cashless Network
+1632,1134,1/8/2026,Accidental Damage,79967,0,Rejected,50,Local Garage
+1633,974,5/13/2026,Theft Fire Damage,128548,0,Rejected,39,Local Garage
+1634,1892,11/12/2025,Flood Damage,163549,0,Pending,12,Local Garage
+1635,183,6/5/2026,Own Damage,350329,0,Pending,65,Authorized
+1636,1593,2/2/2026,Own Damage,66000,0,Pending,68,Authorized
+1637,1225,1/9/2026,Glass Damage,115004,0,Pending,52,Local Garage
+1638,886,7/11/2025,Total Loss,230568,0,Rejected,59,Local Garage
+1639,1145,7/17/2025,Own Damage,160714,159669,Approved,20,Cashless Network
+1640,3654,7/23/2025,Natural Disaster,64012,52326,Approved,87,Local Garage
+1641,216,1/15/2026,Total Loss,23297,0,Pending,19,Local Garage
+1642,1807,3/19/2026,Own Damage,100183,0,Pending,34,Cashless Network
+1643,2941,4/24/2026,Engine Damage,444409,291641,Approved,10,Authorized
+1644,3174,3/6/2026,Glass Damage,262395,248358,Approved,42,Cashless Network
+1645,3824,10/7/2025,Glass Damage,115237,0,Rejected,51,Authorized
+1646,3192,7/8/2025,Own Damage,358395,0,Rejected,1,Local Garage
+1647,330,5/3/2026,Own Damage,19861,8668,Approved,87,Local Garage
+1648,705,6/11/2026,Engine Damage,284853,0,Rejected,4,Authorized
+1649,3729,7/24/2025,Natural Disaster,411420,0,Rejected,26,Local Garage
+1650,2848,11/10/2025,Total Loss,257817,0,Pending,30,Cashless Network
+1651,157,3/25/2026,Own Damage,385134,0,Pending,74,Cashless Network
+1652,3033,8/2/2025,Total Loss,139042,0,Pending,66,Authorized
+1653,450,11/11/2025,Engine Damage,70529,0,Rejected,61,Multi Brand
+1654,467,1/30/2026,Theft Fire Damage,306883,0,Pending,85,Authorized
+1655,470,5/5/2026,Accidental Damage,427595,0,Rejected,73,Local Garage
+1656,1281,3/24/2026,Engine Damage,133277,56734,Approved,89,Authorized
+1657,3766,8/30/2025,Total Loss,353657,270437,Approved,20,Authorized
+1658,2734,12/27/2025,Glass Damage,460169,0,Rejected,17,Local Garage
+1659,1794,2/16/2026,Total Loss,98354,51505,Approved,8,Local Garage
+1660,1224,9/20/2025,Engine Damage,124288,0,Pending,78,Cashless Network
+1661,1299,7/17/2025,Own Damage,413740,205172,Approved,62,Multi Brand
+1662,3555,4/1/2026,Own Damage,92208,84932,Approved,84,Multi Brand
+1663,3857,11/25/2025,Flood Damage,146453,55391,Approved,57,Local Garage
+1664,1086,6/21/2026,Natural Disaster,433703,379750,Approved,12,Authorized
+1665,2048,9/22/2025,Natural Disaster,84402,0,Pending,75,Local Garage
+1666,1720,2/5/2026,Own Damage,278035,0,Rejected,17,Authorized
+1667,3455,7/6/2025,Engine Damage,390061,0,Pending,27,Cashless Network
+1668,2658,10/18/2025,Engine Damage,36699,0,Rejected,7,Multi Brand
+1669,2048,7/4/2025,Theft Fire Damage,96499,0,Pending,13,Cashless Network
+1670,256,12/7/2025,Flood Damage,228133,105866,Approved,77,Cashless Network
+1671,240,4/7/2026,Flood Damage,106490,73780,Approved,37,Multi Brand
+1672,2128,8/12/2025,Own Damage,398151,0,Pending,8,Cashless Network
+1673,3047,5/1/2026,Engine Damage,389545,242958,Approved,41,Local Garage
+1674,423,8/18/2025,Glass Damage,208519,0,Rejected,58,Cashless Network
+1675,589,12/16/2025,Natural Disaster,354778,0,Pending,71,Cashless Network
+1676,3907,5/8/2026,Natural Disaster,169520,40472,Approved,3,Authorized
+1677,3583,8/21/2025,Own Damage,323869,0,Pending,15,Authorized
+1678,3373,1/20/2026,Engine Damage,153318,0,Rejected,90,Cashless Network
+1679,2192,2/1/2026,Own Damage,393779,0,Pending,14,Authorized
+1680,2452,10/26/2025,Theft Fire Damage,418877,0,Rejected,44,Local Garage
+1681,3228,10/18/2025,Glass Damage,142951,0,Rejected,27,Cashless Network
+1682,278,12/23/2025,Natural Disaster,102417,0,Rejected,87,Authorized
+1683,1642,9/4/2025,Theft Fire Damage,10369,0,Rejected,68,Local Garage
+1684,3918,9/27/2025,Total Loss,476490,0,Pending,23,Multi Brand
+1685,39,10/28/2025,Total Loss,388731,63104,Approved,42,Local Garage
+1686,892,3/7/2026,Flood Damage,230617,0,Pending,77,Authorized
+1687,2627,2/27/2026,Glass Damage,196271,0,Rejected,22,Multi Brand
+1688,890,9/4/2025,Accidental Damage,329759,146394,Approved,52,Authorized
+1689,2523,5/19/2026,Total Loss,85946,0,Rejected,81,Authorized
+1690,3810,8/29/2025,Natural Disaster,217098,127366,Approved,22,Cashless Network
+1691,2829,11/29/2025,Flood Damage,63291,0,Pending,87,Local Garage
+1692,2376,12/14/2025,Natural Disaster,173537,0,Pending,35,Cashless Network
+1693,3387,4/3/2026,Glass Damage,434644,0,Rejected,65,Cashless Network
+1694,3473,6/17/2026,Theft Fire Damage,135057,0,Pending,10,Cashless Network
+1695,3181,8/3/2025,Engine Damage,345410,0,Rejected,21,Multi Brand
+1696,3798,5/17/2026,Glass Damage,215360,0,Pending,88,Local Garage
+1697,402,5/18/2026,Own Damage,267904,148095,Approved,49,Local Garage
+1698,2674,8/18/2025,Engine Damage,495945,0,Rejected,11,Cashless Network
+1699,864,4/15/2026,Accidental Damage,237108,89300,Approved,80,Local Garage
+1700,2093,3/22/2026,Accidental Damage,194612,0,Pending,17,Local Garage
+1701,1160,11/19/2025,Total Loss,359629,0,Rejected,42,Multi Brand
+1702,3773,11/9/2025,Accidental Damage,430950,0,Pending,9,Cashless Network
+1703,1412,7/2/2025,Own Damage,295667,0,Rejected,2,Cashless Network
+1704,2397,1/8/2026,Accidental Damage,80279,0,Rejected,47,Cashless Network
+1705,763,11/24/2025,Own Damage,469799,267714,Approved,46,Authorized
+1706,482,10/1/2025,Total Loss,234178,0,Rejected,66,Local Garage
+1707,548,10/7/2025,Accidental Damage,195787,42075,Approved,11,Cashless Network
+1708,1046,4/10/2026,Own Damage,173658,163222,Approved,67,Authorized
+1709,1286,3/18/2026,Theft Fire Damage,37134,0,Rejected,20,Authorized
+1710,3195,6/12/2026,Total Loss,402324,0,Pending,19,Cashless Network
+1711,1737,12/27/2025,Natural Disaster,317932,0,Pending,35,Cashless Network
+1712,3959,8/12/2025,Own Damage,260189,0,Pending,51,Authorized
+1713,2879,9/12/2025,Accidental Damage,186318,83019,Approved,70,Authorized
+1714,3851,3/5/2026,Glass Damage,414650,0,Rejected,78,Multi Brand
+1715,3078,7/18/2025,Engine Damage,287091,0,Pending,58,Multi Brand
+1716,2397,1/14/2026,Total Loss,63496,0,Rejected,10,Cashless Network
+1717,611,10/10/2025,Own Damage,214145,161469,Approved,42,Authorized
+1718,1219,10/26/2025,Total Loss,174647,96606,Approved,49,Authorized
+1719,3834,12/9/2025,Natural Disaster,6406,0,Pending,9,Local Garage
+1720,1424,7/1/2025,Total Loss,124696,0,Rejected,35,Multi Brand
+1721,1736,7/23/2025,Engine Damage,310906,0,Rejected,35,Cashless Network
+1722,3487,4/25/2026,Own Damage,230908,0,Pending,38,Local Garage
+1723,1905,8/18/2025,Natural Disaster,445085,171104,Approved,2,Cashless Network
+1724,1524,3/24/2026,Glass Damage,291137,0,Rejected,9,Local Garage
+1725,2892,2/20/2026,Glass Damage,105175,34270,Approved,7,Multi Brand
+1726,3038,3/12/2026,Natural Disaster,439521,0,Pending,23,Cashless Network
+1727,1756,12/7/2025,Glass Damage,162435,0,Pending,40,Local Garage
+1728,1126,3/23/2026,Flood Damage,170910,0,Rejected,17,Authorized
+1729,2140,11/6/2025,Theft Fire Damage,376825,0,Pending,15,Cashless Network
+1730,2234,11/10/2025,Accidental Damage,228633,0,Pending,58,Multi Brand
+1731,3205,2/27/2026,Theft Fire Damage,169577,0,Rejected,37,Cashless Network
+1732,1113,2/14/2026,Glass Damage,412758,0,Pending,82,Cashless Network
+1733,1575,7/16/2025,Theft Fire Damage,199621,0,Rejected,87,Local Garage
+1734,689,7/5/2025,Accidental Damage,147800,0,Pending,70,Multi Brand
+1735,3574,10/1/2025,Natural Disaster,392433,0,Pending,31,Authorized
+1736,2059,12/11/2025,Total Loss,355351,173636,Approved,28,Authorized
+1737,3231,7/26/2025,Glass Damage,181108,0,Pending,66,Multi Brand
+1738,1896,11/11/2025,Glass Damage,365250,0,Pending,74,Local Garage
+1739,3442,9/29/2025,Theft Fire Damage,149018,0,Pending,38,Local Garage
+1740,2346,6/29/2025,Engine Damage,315396,0,Pending,9,Local Garage
+1741,1855,2/27/2026,Engine Damage,113709,0,Pending,27,Cashless Network
+1742,3833,4/18/2026,Flood Damage,85351,57907,Approved,85,Local Garage
+1743,1632,7/11/2025,Engine Damage,225827,0,Rejected,81,Cashless Network
+1744,1276,10/31/2025,Accidental Damage,10593,0,Pending,1,Multi Brand
+1745,2183,7/20/2025,Accidental Damage,386997,243346,Approved,37,Cashless Network
+1746,1478,6/6/2026,Theft Fire Damage,221303,0,Pending,8,Authorized
+1747,2918,6/11/2026,Glass Damage,277154,104979,Approved,26,Local Garage
+1748,3720,10/1/2025,Engine Damage,216078,0,Rejected,57,Authorized
+1749,1777,10/19/2025,Accidental Damage,252012,0,Pending,81,Cashless Network
+1750,1695,8/9/2025,Glass Damage,74367,10308,Approved,30,Multi Brand
+1751,1282,4/26/2026,Natural Disaster,297691,158762,Approved,81,Cashless Network
+1752,1088,9/23/2025,Engine Damage,361780,0,Pending,11,Local Garage
+1753,2276,12/27/2025,Own Damage,289219,0,Rejected,10,Authorized
+1754,3500,11/25/2025,Natural Disaster,305905,0,Pending,73,Authorized
+1755,2579,7/10/2025,Total Loss,322484,0,Pending,83,Cashless Network
+1756,1874,5/13/2026,Glass Damage,287928,0,Rejected,31,Local Garage
+1757,3206,3/16/2026,Own Damage,327272,0,Rejected,33,Cashless Network
+1758,3993,11/20/2025,Total Loss,436975,262533,Approved,53,Local Garage
+1759,830,8/4/2025,Flood Damage,264471,0,Pending,27,Cashless Network
+1760,531,8/12/2025,Glass Damage,386882,0,Pending,25,Multi Brand
+1761,3492,8/31/2025,Theft Fire Damage,455223,0,Rejected,47,Local Garage
+1762,3125,12/5/2025,Accidental Damage,57353,0,Rejected,4,Authorized
+1763,80,12/15/2025,Theft Fire Damage,228310,185463,Approved,88,Local Garage
+1764,2484,1/16/2026,Own Damage,371501,208981,Approved,4,Cashless Network
+1765,853,1/22/2026,Natural Disaster,286004,0,Pending,37,Cashless Network
+1766,2385,1/27/2026,Theft Fire Damage,166558,98672,Approved,11,Authorized
+1767,2400,8/6/2025,Engine Damage,144991,0,Pending,88,Cashless Network
+1768,3803,10/29/2025,Accidental Damage,153358,0,Pending,50,Multi Brand
+1769,3673,12/31/2025,Theft Fire Damage,259214,0,Rejected,7,Authorized
+1770,3947,9/29/2025,Theft Fire Damage,143713,0,Pending,7,Cashless Network
+1771,138,7/5/2025,Accidental Damage,114922,0,Rejected,23,Authorized
+1772,2366,12/10/2025,Total Loss,353359,0,Pending,53,Multi Brand
+1773,271,5/24/2026,Natural Disaster,401115,0,Pending,74,Local Garage
+1774,2793,6/17/2026,Glass Damage,216007,202632,Approved,55,Cashless Network
+1775,3223,2/23/2026,Flood Damage,22645,0,Pending,11,Authorized
+1776,1940,5/11/2026,Own Damage,147588,93810,Approved,14,Multi Brand
+1777,295,1/19/2026,Theft Fire Damage,249600,0,Pending,4,Multi Brand
+1778,2479,4/9/2026,Own Damage,456967,0,Rejected,28,Multi Brand
+1779,3482,8/26/2025,Total Loss,179214,0,Rejected,19,Authorized
+1780,224,5/2/2026,Natural Disaster,432648,0,Pending,61,Local Garage
+1781,3791,4/13/2026,Engine Damage,386515,0,Rejected,78,Local Garage
+1782,3215,9/14/2025,Total Loss,140838,0,Pending,37,Cashless Network
+1783,496,7/1/2025,Flood Damage,98442,0,Pending,28,Local Garage
+1784,2543,7/12/2025,Engine Damage,87221,0,Rejected,84,Multi Brand
+1785,1818,10/30/2025,Total Loss,109199,0,Rejected,82,Multi Brand
+1786,1776,7/27/2025,Glass Damage,168035,87167,Approved,19,Authorized
+1787,2838,12/22/2025,Theft Fire Damage,315764,136207,Approved,74,Cashless Network
+1788,1790,10/23/2025,Engine Damage,125190,0,Pending,70,Multi Brand
+1789,3997,2/20/2026,Accidental Damage,482458,85930,Approved,28,Cashless Network
+1790,3357,3/27/2026,Glass Damage,218888,0,Pending,51,Local Garage
+1791,3975,3/20/2026,Glass Damage,238331,65940,Approved,9,Local Garage
+1792,1595,8/31/2025,Theft Fire Damage,335328,0,Pending,35,Authorized
+1793,96,12/4/2025,Natural Disaster,416331,0,Rejected,57,Local Garage
+1794,810,4/2/2026,Engine Damage,393753,0,Rejected,78,Local Garage
+1795,3990,6/5/2026,Accidental Damage,397192,125719,Approved,46,Local Garage
+1796,1578,9/5/2025,Glass Damage,423351,0,Rejected,67,Multi Brand
+1797,3704,1/28/2026,Glass Damage,159080,53499,Approved,22,Authorized
+1798,2592,10/12/2025,Flood Damage,7027,0,Rejected,28,Local Garage
+1799,1380,1/27/2026,Own Damage,261964,106829,Approved,25,Authorized
+1800,3522,10/31/2025,Own Damage,248987,0,Pending,10,Authorized
+1801,2332,5/27/2026,Total Loss,203620,0,Rejected,57,Multi Brand
